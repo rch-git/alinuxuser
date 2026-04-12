@@ -1,0 +1,31 @@
+##### INITIAL REPO SETUP #####
+
+# set username
+sysuser@ubuntuprod:~/git/alinuxuser (master -> origin/master)$ git config user.name "RC"
+
+# set email
+sysuser@ubuntuprod:~/git/alinuxuser (master -> origin/master)$ git config user.email "alinuxuser@fastmail.com"
+
+# rebase when pulling
+git config pull.rebase true
+
+# create local branch named dev
+git checkout -b dev
+
+# set upstream branch to dev
+git push -u origin dev
+
+##### SETUP HUGO PROJECT #####
+
+# run the command from inside alinuxuser directory
+sysuser@ubuntuprod:~/git/thelocalhoster$ hugo new site . --force --format yaml
+
+# install PaperMod theme. this needs to be done every time the repository is recreated.
+# https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
+git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
+
+# rename hugo.yaml to config.yaml
+mv ~/git/alinuxuser/hugo.yaml ~/git/alinuxuser/config.yaml
+
+# Create netlify.toml and add build options
+
