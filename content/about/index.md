@@ -16,9 +16,13 @@ build:
   list: false
   render: true
 ---
+I created this website after casually searching for a domain name on Namecheap, and to my surprise, I found this domain name was available.
 
+I was quite happy with Blogger but its evident that Google abandoned it. I hope this is my forever blog.
 
-If you want to contact me, you can reach me here:
+I am interested in tech, gaming, photography (don't get to do this as much), writing and Linux (my new found hobby).
+
+If you want to contact me, you can reach me via email or tag me on X.
 
 Email: ```alinuxuser(at)fastmail.com```
 
