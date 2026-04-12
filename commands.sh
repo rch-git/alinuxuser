@@ -1,7 +1,7 @@
 ##### INITIAL REPO SETUP #####
 
 # set username, email and set rebase when pulling
-sysuser@ubuntuprod:~/git/alinuxuser (master -> origin/master)$ git config user.name "RC" && git config user.email "alinuxuser@fastmail.com" && git config pull.rebase true
+sysuser@ubuntuprod:~/git/alinuxuser (master -> origin/master)$ git config user.name "RC" && git config user.email "alinuxuser@fastmail.com"
 
 # verify details.
 sysuser@ubuntuprod:~/git/alinuxuser (dev -> origin/dev)$ git config --local -l
