@@ -1,13 +1,17 @@
 ##### INITIAL REPO SETUP #####
 
-# set username
-sysuser@ubuntuprod:~/git/alinuxuser (master -> origin/master)$ git config user.name "RC"
+# set username, email and set rebase when pulling
+sysuser@ubuntuprod:~/git/alinuxuser (master -> origin/master)$ git config user.name "RC" && git config user.email "alinuxuser@fastmail.com" && git config pull.rebase true
+
+# verify details.
+sysuser@ubuntuprod:~/git/alinuxuser (dev -> origin/dev)$ git config --local -l
+
 
 # set email
-sysuser@ubuntuprod:~/git/alinuxuser (master -> origin/master)$ git config user.email "alinuxuser@fastmail.com"
+# sysuser@ubuntuprod:~/git/alinuxuser (master -> origin/master)$ git config user.email "alinuxuser@fastmail.com"
 
 # rebase when pulling
-git config pull.rebase true
+# git config pull.rebase true
 
 # create local branch named dev
 git checkout -b dev
