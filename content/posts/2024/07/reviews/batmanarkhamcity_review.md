@@ -2,6 +2,7 @@
 date: 2024-07-28T14:21:00
 draft: false
 title: 'Batman Arkham City (PC) Review'
+tags: ["game review", "batman"]
 ---
 Very solid game. Definitely worth playing. Main story takes about 13 hours to complete. There is a TON of side content.
 
