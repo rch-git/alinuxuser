@@ -1,6 +1,6 @@
 ---
 date: '2011-06-16T23:18:00'
-draft: true
+draft: false
 title: 'Blogbytes: My First Post'
 ---
 <!-- http://localhost:1313/posts/2011/06/myfirstpost/ -->
