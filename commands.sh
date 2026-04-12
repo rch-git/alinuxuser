@@ -29,3 +29,6 @@ mv ~/git/alinuxuser/hugo.yaml ~/git/alinuxuser/config.yaml
 
 # Create netlify.toml and add build options
 
+##### ONE LINE COMMAND TO PUSH CHANGES TO MASTER AND SWITCH BACK #####
+# run this from the root directory
+git checkout master && git pull && git merge dev && git push && git checkout dev
