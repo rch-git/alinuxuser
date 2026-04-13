@@ -1,6 +1,6 @@
 ---
 date: '2026-04-07T05:24:12'
-draft: false
+draft: true
 title: 'Work Trip to Charleston, SC'
 tags: ["travel", "charleston"]
 ---
@@ -30,3 +30,9 @@ Today is going to be busy.
 #### Apr 10, 2026 Friday 08:26:37 AM CDT
 
 More prep work for the trip. Finished packing.
+
+#### Apr 13, 2026 Monday 05:38:34 AM CDT
+
+Going to leave home at 8:15AM. Scheduled an Uber. Due to the recent problems with TSA, I want to get to the airport early.
+
+I want to check my luggage and make sure everything is looking good. I am going to get ready soon, and await my ride. My next update will be from Charleston, SC.
