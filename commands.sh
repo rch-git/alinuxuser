@@ -6,7 +6,6 @@ sysuser@ubuntuprod:~/git/alinuxuser (master -> origin/master)$ git config user.n
 # verify details.
 sysuser@ubuntuprod:~/git/alinuxuser (dev -> origin/dev)$ git config --local -l
 
-
 # set email
 # sysuser@ubuntuprod:~/git/alinuxuser (master -> origin/master)$ git config user.email "alinuxuser@fastmail.com"
 
