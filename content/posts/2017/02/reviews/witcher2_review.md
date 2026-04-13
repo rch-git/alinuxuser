@@ -58,13 +58,13 @@ For all the freedom the game offers, the boss battles are terrible. There is no 
 Skills is another aspect that could have been a lot better. I went through the entire game without allocating a single point to alchemy. There was no reason to use it. Just make sure you upgrade Quen, and upgrade your swordsmanship, and you are good to go.
 
 There were only a few instances where I found potions to be useful. Certain sections of the game require you to drink a potion, but otherwise, Cat was the only potion I found useful.
-https://github.com/rch-git/staticcontent/blob/master/images/witcher2_review/05_witcher2-2017-01-15%2002-49-13-61.jpg
+
 {{<
     figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/witcher2_review/04_witcher2-2017-01-29%2014-27-25-13.jpg"
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/witcher2_review/05_witcher2-2017-01-15%2002-49-13-61.jpg"
     align="center"
     caption="Cat potion"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/witcher2_review/04_witcher2-2017-01-29%2014-27-25-13.jpg"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/witcher2_review/05_witcher2-2017-01-15%2002-49-13-61.jpg"
 >}}
 
 The inventory system is a mess. It is very poorly designed. The developers announced at the time that they were targeting consoles as the primary platform. The inventory system in the first game was far superior compared to this.
