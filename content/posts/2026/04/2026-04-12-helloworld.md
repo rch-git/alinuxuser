@@ -4,14 +4,18 @@ date: 2026-04-12T06:08:25
 draft: false
 tags: ["hello world"]
 ---
-After some trial and error, my website is now live.
+After some trial and error, my new website is now live.
 
-This website is built on Hugo, using PaperMod theme, deployed on Netlify and connected to my Namecheap domain.
+Built with Hugo using the PaperMod theme, deployed on Netlify, and connected to my Namecheap domain.
 
-I am going to try to consolidate all the blog posts I wrote over the years. I started blogging as a way to improve my writing. Back in the day I started a blog with Blogger and Windows Live Writer on Windows XP. It was perfect. I could write content offline, which was very important because internet connectivity was not good. I loved Blogger, and I started a couple of blogs over the years, and my main blog was on GameSpot. I quit updating my blog on GameSpot in 2011, and only updated my other blogs occasionally. Google had other plans for Blogger. There were no meaningful updates in a very long time. It is extremely dormant - and it might go offline at some point.
+I’m consolidating all the blog posts I’ve written over the years. I originally started blogging to improve my writing. Back then, I used Blogger with Windows Live Writer on Windows XP — it was perfect. I could write offline when internet access was unreliable.
 
-I looked for alternatives. Wordpress was a little too heavy for my liking. I did not need all those features. I wanted something simple where I could write the content locally, and push an update easily.
+Over time I ran several blogs, with my main one on GameSpot. I stopped updating it in 2011 and only posted occasionally elsewhere. Blogger has seen almost no meaningful updates in years and feels dormant; it may eventually go offline.
 
-This current setup satisfies all my needs. I can write my content locally, and check it into the dev branch, and when I am ready, I can easily deploy it.
+I explored alternatives, but WordPress felt too heavy for my needs. I wanted something simple: write locally and deploy easily.
 
-I will be slowly migrating content from other blogs, setting the dates as accurately as possible and making very minor edits.
+This Hugo + Netlify setup meets all those requirements perfectly. I write content locally, commit to the dev branch, and deploy when ready.
+
+I’ll slowly migrate posts from my old blogs, preserving original dates where possible and making only minor edits.
+
+I am hoping this is the last platform I ever need.
