@@ -66,6 +66,17 @@ How to escape symbols
 
 "double quotes inside double quotes \""
 
+### making a table
+
+
+| Date              | Market Reaction | Event Description   |
+|-------------------|-----------------|---------------------|
+| January 28, 2026  | 7,002.28 | Pre-war all time high |
+| February 28, 2026 | The drop begins   | Oil is high, stocks are low |
+| March 30, 2026    | 6,316.91 | Lowest close during the Iran war scare (down 9.8% from Jan 28 high; worst levels since late 2024). |
+| April 8, 2026     | Rebound | U.S.-Iran ceasefire/truce signals emerge; major relief rally begins as investors price in de-escalation. |
+| April 15, 2026    | 7,022.95 | New all-time high; S&P 500 surpasses previous record (Jan 28 high) and crosses back above 7,000. Full recovery of all Iran-war losses + new record set.|
+
 #### youtube video
 
 <p>

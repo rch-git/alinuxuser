@@ -38,3 +38,16 @@ Coming to the current situation, we see a similar trend.
 | March 30, 2026    | 6,316.91 | Lowest close during the Iran war scare (down 9.8% from Jan 28 high; worst levels since late 2024). |
 | April 8, 2026     | Rebound | U.S.-Iran ceasefire/truce signals emerge; major relief rally begins as investors price in de-escalation. |
 | April 15, 2026    | 7,022.95 | New all-time high; S&P 500 surpasses previous record (Jan 28 high) and crosses back above 7,000. Full recovery of all Iran-war losses + new record set.|
+
+All the while, there were people online who were predicting the end of the world. Whether they truly believed these delusions or they were doing this for attention is hard to say. I am not in favor or wars, that said, if a war is inevitable, I'd rather America win by crushing its enemies. It appears that peace has been achieved through strength. As much as I dislike the idea of foreign entanglements, if they are inevitable, lets at least not engage in pointless nation building - and far, we haven't been doing that, which gives me a good feeling.
+
+Its rather amusing that the end of the war brought with it a collective sigh of relief among those that are not terminally online, and also personally speaking, it helped me achieve an important personal financial milestone.
+
+###### A Personal Milestone
+
+Having achieved this personal financial milestone, by not doing much during the market turmoil, I decided to reward myself. I got went to buffet place - spent $12, and ate 4 plates of food. I typed this entire post while I was having dinner. The joys of eating alone.
+
+Going forward, I want to think less about finances, and more about life. The last few years have been a relentless pursuit of numbers. Sure it was nice to see the progress, but I must confess, it did not bring me any real happiness. I want to pursue real happiness. I wish I knew exactly what that was. For now though, I am glad to to have rediscovered my love for writing.
+
+I am also going to play more video games, and not spend time browsing the internet. I need to figure out a way to do live blogging (writing while I play). I have a couple of ideas.
+
