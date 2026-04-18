@@ -27,7 +27,7 @@ outputs:
     - RSS
     - JSON # necessary for search
 pagination:
-  pagerSize: 50   # This sets 50 posts per page on list pages (homepage, tags, categories, sections, etc.)
+  pagerSize: 100   # This sets 50 posts per page on list pages (homepage, tags, categories, sections, etc.)
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.

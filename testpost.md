@@ -84,7 +84,7 @@ How to escape symbols
 </p>
 
 #### Open link in a new tab
-{{< newtab href="https://www.amazon.com/Intel-Pentium-1-7GHz-400MHz-Socket/dp/B000YA9FM0" text="Pentium 4 1.7 GHz" >}}
+{{< newtab href="https://www.example.com" text="TEXT HERE" >}}
 
 #### link to another page in the blog
 
