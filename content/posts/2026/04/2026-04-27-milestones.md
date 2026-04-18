@@ -5,7 +5,7 @@ draft: false
 tags: ["finance"]
 ---
 
-##### Financial Detox
+#### Financial Detox
 
 A few weeks ago I started a digital detox. I stopped reading the news, skipped every hot take on the Iran war or on how President Trump “should have handled” it, and ignored the endless commentary from people detached from reality. None of it added value; it simply occupied precious brain space.
 
@@ -77,7 +77,7 @@ All the while, there were people online who were predicting the end of the world
 
 Its rather amusing that the end of the war (as of now) brought with it a collective sigh of relief to those that are not consumed by partisan politics, and also helped me achieve an important personal financial milestone.
 
-###### A Personal Milestone
+#### A Personal Milestone
 
 Having achieved this personal financial milestone, by not doing much during the market turmoil, I decided to reward myself. I went to buffet place - spent $12, and ate 5 plates of food. I typed this entire post while I was having dinner. The joys of eating alone.
 
