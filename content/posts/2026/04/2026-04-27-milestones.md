@@ -41,13 +41,30 @@ Coming to the current situation, we see a similar trend.
 
 All the while, there were people online who were predicting the end of the world. Whether they truly believed these delusions or they were doing this for attention is hard to say. I am not in favor or wars, that said, if a war is inevitable, I'd rather America win by crushing its enemies. It appears that peace has been achieved through strength. As much as I dislike the idea of foreign entanglements, if they are inevitable, lets at least not engage in pointless nation building - and far, we haven't been doing that, which gives me a good feeling.
 
-Its rather amusing that the end of the war brought with it a collective sigh of relief among those that are not terminally online, and also personally speaking, it helped me achieve an important personal financial milestone.
+Its rather amusing that the end of the war brought with it a collective sigh of relief among those that are not terminally online, and also personally speaking, it helped me achieve an important personal financial milestone. I don't mind say so, but this is not too bad for my age (43).
 
 ###### A Personal Milestone
 
-Having achieved this personal financial milestone, by not doing much during the market turmoil, I decided to reward myself. I got went to buffet place - spent $12, and ate 4 plates of food. I typed this entire post while I was having dinner. The joys of eating alone.
+Having achieved this personal financial milestone, by not doing much during the market turmoil, I decided to reward myself. I went to buffet place - spent $12, and ate 4 plates of food. I typed this entire post while I was having dinner. The joys of eating alone.
 
-Going forward, I want to think less about finances, and more about life. The last few years have been a relentless pursuit of numbers. Sure it was nice to see the progress, but I must confess, it did not bring me any real happiness. I want to pursue real happiness. I wish I knew exactly what that was. For now though, I am glad to to have rediscovered my love for writing.
+Going forward, I want to think less about finances, and more about life. The last few years have been a relentless pursuit of numbers. Sure it was nice to see the progress, but I must confess, it did not bring me any real happiness. There is no one in my life I can share this with it, who will actually understand the accomplishments (if you want to call it that). I am not someone who is into lifestyle inflation - buying things does not bring me happiness. Quite the opposite, its a cause for stress. I want to pursue real happiness. I wish I knew exactly what that was. For now though, I am glad to to have rediscovered my love for writing.
 
 I am also going to play more video games, and not spend time browsing the internet. I need to figure out a way to do live blogging (writing while I play). I have a couple of ideas.
+
+I want to small the roses, enjoy the gifts I have been given, even if it means I have to travel this path by myself - because there is no one I can share this with. It feels very tacky to brag to friends and family about financial milestones. Inevitably this will bring judgement, and I can certainly do without it.
+
+So what will be different going forward?
+
+Certainly spend more on experiences. Go out more.
+
+For example, today is very uncharacterstic. I do not go out by myself and get a meal. I have done it in the past, but its not very common. However, this is surprisingly nice. I am going to do this more. A few dollars here and there will hardly make any difference in my life at this point.
+
+I get the feeling that being at home has me lazy. I should get out more.
+
+Wins in life are rare. I am going to make it a point to celebrate wins - however inconsequential or unusual as they might be. After all, how many people in the world are celebrating their net worth milestones? I don't think I am the only one, I am sure there are those in the FIRE community doing this very thing every year. I am not in that community, and I do not believe in the concept of FIRE. I do like FI though. Its the RE part that I do not like. We should never celebrate not doing work.
+
+Personally, I Want to do meaningful work for as long as I live.
+
+The relentless pursuit of 4% is not something I want to engage in. Although, arguably, I am very close to that milestone.
+
 
