@@ -30,6 +30,8 @@ From github repo with center align and a clickable image.
     width="256"
     align="center"
     caption="from staticcontent repo"
+    target="_blank"
+    rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/helloworld.jpg"
 >}}
 

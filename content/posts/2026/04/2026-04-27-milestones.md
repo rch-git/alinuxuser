@@ -5,7 +5,7 @@ draft: false
 tags: ["finance"]
 ---
 
-#### Financial Detox
+#### The Detox
 
 A few weeks ago I started a digital detox. I stopped reading the news, skipped every hot take on the Iran war or on how President Trump “should have handled” it, and ignored the endless commentary from people detached from reality. None of it added value; it simply occupied precious brain space.
 
@@ -23,6 +23,8 @@ On April 16, 2026, while stuck in the Charleston, SC airport on my way home, I f
     src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/2026-04-16_15-39-32-investing.com.png"
     align="center"
     caption="Market on 2026-04-16"
+    target="_blank"
+    rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/2026-04-16_15-39-32-investing.com.png"
 >}}
 
@@ -33,6 +35,8 @@ I still remember the infamous 2016 CNN headline: {{< newtab href="https://raw.gi
     src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/2026-04-18_09-37-26-financial-genius.png"
     align="center"
     caption="One of the greatest self-goals of all time."
+    target="_blank"
+    rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/2026-04-18_09-37-26-financial-genius.png"
 >}}
 
@@ -43,6 +47,8 @@ Today—2,460 trading days later—the S&P 500 closed at `7126.03` (April 17, 20
     src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/2026-04-17_09-08-12-market-status.jpg"
     align="center"
     caption="Market on 2026-04-17"
+    target="_blank"
+    rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/2026-04-17_09-08-12-market-status.jpg"
 >}}
 
@@ -56,6 +62,8 @@ For context, the S&P 500 hit a record `6144.15` on February 19, 2025. By April 8
     align="center"
     width="512"
     caption="Battlefield YouTubers became market experts."
+    target="_blank"
+    rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/2025-03-07-15_48_47-rivaLxfactor-finance-predictions.jpg"
 >}}
 
@@ -65,13 +73,13 @@ On June 27, 2025, S&P 500 closed at a new all-time high of `6173.07`. This marke
 
 Coming to the current situation, we see a similar trend.
 
-| Date              | Market Reaction | Event Description   |
-|-------------------|-----------------|---------------------|
-| January 28, 2026  | `7002.28` | Pre-war all time high |
-| February 28, 2026 | The drop begins   | Oil is high, stocks are low |
-| March 30, 2026    | `6316.91` | Lowest close during the Iran war scare (down 9.8% from Jan 28 high; worst levels since late 2024). |
-| April 8, 2026     | Rebound | U.S.-Iran ceasefire/truce signals emerge; major relief rally begins as investors price in de-escalation. |
-| April 15, 2026    | `7022.95` | New all-time high; S&P 500 surpasses previous record (Jan 28 high) and crosses back above 7000. Full recovery of all Iran-war losses + new record set.|
+| Date              | Market Reaction   | Event Description                                                                                                                                     |
+|-------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| January 28, 2026  | `7002.28`         | Pre-war all time high.                                                                                                                                |
+| February 28, 2026 | The drop begins   | Oil is high, stocks are low.                                                                                                                          |
+| March 30, 2026    | `6316.91`         | Lowest close during the Iran war scare (down 9.8% from Jan 28 high; worst levels since late 2024).                                                    |
+| April 8, 2026     | Rebound           | U.S.-Iran ceasefire/truce signals emerge; major relief rally begins as investors price in de-escalation.                                              |
+| April 15, 2026    | `7022.95`         | New all-time high; S&P 500 surpasses previous record (Jan 28 high) and crosses back above 7000. Full recovery of all Iran-war losses + new record set.|
 
 All the while, there were people online who were predicting the end of the world. Whether they truly believed these delusions or they were doing this for attention is hard to say. I am not in favor of wars, that said, if a war is inevitable, I'd rather America win by crushing its enemies. Can all this change on Monday April 20, 2026? Yes. I know I will not be doing anything different, I will stay the course.
 
@@ -87,6 +95,8 @@ Having achieved this personal financial milestone, by not doing much during the 
     align="center"
     width="512"
     caption="Barbecue to start"
+    target="_blank"
+    rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_163938.jpg"
 >}}
 
@@ -96,6 +106,8 @@ Having achieved this personal financial milestone, by not doing much during the 
     align="center"
     width="512"
     caption="Followed by Italian. It was bad."
+    target="_blank"
+    rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_172541.jpg"
 >}}
 
@@ -105,6 +117,8 @@ Having achieved this personal financial milestone, by not doing much during the 
     align="center"
     width="512"
     caption="Mexican. It was bad."
+    target="_blank"
+    rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_175855.jpg"
 >}}
 
@@ -114,6 +128,8 @@ Having achieved this personal financial milestone, by not doing much during the 
     align="center"
     width="512"
     caption="Chick-fil-A. Jesus chicken."
+    target="_blank"
+    rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_183417.jpg"
 >}}
 
@@ -123,6 +139,8 @@ Having achieved this personal financial milestone, by not doing much during the 
     align="center"
     width="512"
     caption="Orange ice cream, pecan turtle cheesecake, and coffee."
+    target="_blank"
+    rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/food/20260417_190203.jpg"
 >}}
 
