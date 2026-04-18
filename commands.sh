@@ -38,3 +38,8 @@ sysuser@ubuntuprod:~/git/alinuxuser (dev -> origin/dev)$ hugo new posts/2017/02/
 ##### ONE LINE COMMAND TO PUSH CHANGES TO MASTER AND SWITCH BACK #####
 # run this from the root directory
 git checkout master && git pull && git merge dev && git push && git checkout dev
+
+# if master and dev became different, and force changes from dev into master
+git checkout master
+git reset --hard dev
+git push --force
