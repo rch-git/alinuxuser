@@ -1,8 +1,8 @@
 ---
-title: 'Assassins Creed Black Flag Review'
+title: 'Assassins Creed Black Flag (PC) Review'
 date: 2022-04-17T14:23:00
 draft: false
-tags: ["game review"]
+tags: ["game review", "assassins creed"]
 ---
 I finished Assassins's Creed IV: Black Flag on Saturday, April 16, 2022, 1:15:00 PM. I got this game via Uplay for free a few years ago, and I finally decided to play it in March 2022 and I enjoyed this game despite Ubisoft’s best efforts.
 
