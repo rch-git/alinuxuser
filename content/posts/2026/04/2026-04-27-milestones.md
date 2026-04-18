@@ -2,7 +2,7 @@
 title: 'Reaching A Milestone'
 date: 2026-04-17T16:52:01
 draft: false
-tags: ["game review"]
+tags: ["finance"]
 ---
 ##### Apr 17, 2026 Friday 04:55:07 PM CDT
 
@@ -29,3 +29,12 @@ There was widespread panic. Armchair economists on X were predicting a financial
 I fully expect people from other countries to dislike the way President Trump went about this, but he was acting in what he believed was best for the country. When the market hit its lowest point, the panic was in full swing. Trump called them `panicans`. Appropriate. Personally, I did nothing different. I did buy the dip a little bit, but I did not have the cashflow, and I had to sit on the sidelines a little bit. At least, I wasn't selling like those geniuses on TV and X.
 
 On June 27, 2025, S&P 500 closed at a new all-time high of 6,173.07. This marked full recovery from the tariff scare drawdown (and set a new record). The index had already turned positive for the year by May.
+
+Coming to the current situation, we see a similar trend.
+| Date              | Market Reaction | Event Description   |
+|-------------------|-----------------|---------------------|
+| January 28, 2026  | 7,002.28 | Pre-war all time high |
+| February 28, 2026 | The drop begins   | Oil is high, stocks are low |
+| March 30, 2026    | 6,316.91 | Lowest close during the Iran war scare (down 9.8% from Jan 28 high; worst levels since late 2024). |
+| April 8, 2026     | Rebound | U.S.-Iran ceasefire/truce signals emerge; major relief rally begins as investors price in de-escalation. |
+| April 15, 2026    | 7,022.95 | New all-time high; S&P 500 surpasses previous record (Jan 28 high) and crosses back above 7,000. Full recovery of all Iran-war losses + new record set.|
