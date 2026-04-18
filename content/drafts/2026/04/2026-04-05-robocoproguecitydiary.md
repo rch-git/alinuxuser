@@ -39,7 +39,16 @@ Got a phone call. Had to pause.
 
 No idea what is happening with the story.
 
--- ##### Apr 18, 2026 Saturday 11:02:40 AM CDT
+##### Apr 18, 2026 Saturday 03:26:32 PM CDT
 
--- Finish writing some unrelated content and published it. I will play some more now.
+Finish writing some unrelated content and published it. I will play some more now.
+
+Playing the mission where I have to prevent the bad guys from blowing up a bridge in detroit.
+
+Disarming the bomb puzzle is boring
+
+Hate how secondary weapon gets reset between missions.
+
+Think I am in the last level. Action is dialed to 11.
+
 
