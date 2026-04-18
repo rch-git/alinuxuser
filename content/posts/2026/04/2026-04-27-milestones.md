@@ -1,5 +1,5 @@
 ---
-title: 'Reaching a Milestone'
+title: 'Micro and Macro Economic Milestones'
 date: 2026-04-17T16:52:01
 draft: false
 tags: ["finance"]
@@ -83,11 +83,11 @@ Coming to the current situation, we see a similar trend.
 
 All the while, there were people online who were predicting the end of the world. Whether they truly believed these delusions or they were doing this for attention is hard to say. I am not in favor of wars, that said, if a war is inevitable, I'd rather America win by crushing its enemies. Can all this change on Monday April 20, 2026? Yes. I know I will not be doing anything different, I will stay the course.
 
-Its rather amusing that the end of the war (as of now) brought with it a collective sigh of relief to those that are not consumed by partisan politics, and also helped me achieve an important personal financial milestone.
-
 #### A Personal Milestone
 
-Having achieved this personal financial milestone, by not doing much during the market turmoil, I decided to reward myself. I went to buffet place - spent $12, and ate 5 plates of food. I typed this entire post while I was having dinner. The joys of eating alone.
+Its rather amusing that those that are not consumed by partisan politics are happy with the current situation and hopeful about the future. I also achieved an important personal financial milestone.
+
+This was achieved by not doing much during the market turmoil. I decided to reward myself. I went to buffet place - spent $12, and ate 5 plates of food. I typed this entire post while I was having dinner. The joys of eating alone.
 
 {{<
     figure
