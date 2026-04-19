@@ -2,7 +2,7 @@
 date: '2006-04-02T00:00:00'
 draft: false
 title: 'Tomb Raider Legend Demo Review'
-tags: ["tomb raider", "game review"]
+tags: ["tomb raider"]
 ---
 ```
 Tested on:
