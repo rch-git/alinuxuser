@@ -32,12 +32,13 @@ I still remember the infamous 2016 CNN headline: {{< newtab href="https://raw.gi
 
 {{<
     figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/2026-04-18_09-37-26-financial-genius.png"
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/trump_stocks_DE5mdvKVYAAxlY0.jpg"
     align="center"
+    width="512"
     caption="One of the greatest self-goals of all time."
     target="_blank"
     rel="noopener"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/2026-04-18_09-37-26-financial-genius.png"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/reachingamilestone/trump_stocks_DE5mdvKVYAAxlY0.jpg"
 >}}
 
 Today—2,460 trading days later—the S&P 500 closed at `7126.03` (April 17, 2026). In nearly 2,400 days, not a single week passed without someone predicting imminent collapse, World War III, or the next civilization-ending pandemic. None of it materialized anywhere near the scale the experts claimed. Could something catastrophic still be around the corner? Of course. No one knows. That’s precisely the point. The talking heads pretend they do; the rest of us simply live with uncertainty.
@@ -73,12 +74,12 @@ On June 27, 2025, S&P 500 closed at a new all-time high of `6173.07`. This marke
 
 Coming to the current situation, we see a similar trend.
 
-| Date              | Market Reaction   | Event Description                                                                                                                                     |
-|-------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| January 28, 2026  | `7002.28`         | Pre-war all time high.                                                                                                                                |
-| February 28, 2026 | The drop begins   | Oil is high, stocks are low.                                                                                                                          |
-| March 30, 2026    | `6316.91`         | Lowest close during the Iran war scare (down 9.8% from Jan 28 high; worst levels since late 2024).                                                    |
-| April 8, 2026     | Rebound           | U.S.-Iran ceasefire/truce signals emerge; major relief rally begins as investors price in de-escalation.                                              |
+| Date              | Market Reaction   | Event Description |
+|-------------------|-------------------|-------------------|
+| January 28, 2026  | `7002.28`         | Pre-war all time high.    |
+| February 28, 2026 | The drop begins   | Oil is high, stocks are low.  |
+| March 30, 2026    | `6316.91`         | Lowest close during the Iran war scare (down 9.8% from Jan 28 high; worst levels since late 2024).    |
+| April 8, 2026     | Rebound           | U.S.-Iran ceasefire/truce signals emerge; major relief rally begins as investors price in de-escalation.  |
 | April 15, 2026    | `7022.95`         | New all-time high; S&P 500 surpasses previous record (Jan 28 high) and crosses back above 7000. Full recovery of all Iran-war losses + new record set.|
 
 All the while, there were people online who were predicting the end of the world. Whether they truly believed these delusions or they were doing this for attention is hard to say. I am not in favor of wars, that said, if a war is inevitable, I'd rather America win by crushing its enemies. Can all this change on Monday April 20, 2026? Yes. I know I will not be doing anything different, I will stay the course.
