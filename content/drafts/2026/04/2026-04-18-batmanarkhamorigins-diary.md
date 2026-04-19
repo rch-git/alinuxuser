@@ -26,3 +26,10 @@ https://www.youtube.com/watch?v=MtCbJ0B7IF8
 
 Going to take a break for the night. Will play more tomorrow early in the morning.
 
+#### Apr 19, 2026 Sunday 04:44:42 PM CDT
+
+Migrated a lot of content from the old blog. Wrote a review of RoboCop Rouge City. Going to play some more now.
+
+Fight with killer croc is pretty good.
+
+Not a huge fan of UI. I wish I customize it better. I need to look into it. Going to take a little bit of a break and play more maybe later tonight.
