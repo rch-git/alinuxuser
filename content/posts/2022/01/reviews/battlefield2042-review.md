@@ -115,7 +115,21 @@ The plus system is such a neat addition to the game. I find myself changing atta
 
 This is a brilliant idea, provided DICE can support it, and bring more classic maps from the older games. I only played a few rounds of Conquest on Noshar Canals and Caspian Border, and the feeling of nostalgia is very strong. There is a lot of potential here. I am going to spend more time playing Portal in the near future.
 
-https://patchrowcester.blogspot.com/2021/12/dice-has-something-very-special-in.html
+<p>
+{{< youtube Mr4YIVVqpOw >}}
+</p>
+
+To be able to play these two maps again in Portal mode feels unreal. The feeling of nostalgia when I saw this for the very first time is unreal. Running through the center of the map brings back memories of the countless hours spent on TDM. I learned to play Battlefield on this map. Playing as a support player in TDM was the way to go back then. Without this map, I probably never would have gotten into Battlefield.
+
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlefield2042-review/03-battlefield2042-review-noshar-canals-BF2042_2021_12_19_08_17_14_501.jpg"
+    align="center"
+    caption="Noshar Canals"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlefield2042-review/03-battlefield2042-review-noshar-canals-BF2042_2021_12_19_08_17_14_501.jpg"
+>}}
 
 #### Fun With Friends
 
