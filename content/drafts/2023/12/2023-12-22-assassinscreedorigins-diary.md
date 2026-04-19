@@ -1,5 +1,5 @@
 ---
-date: 2026-04-18T20:00:28
+date: 2023-12-22T10:28:00
 draft: false
 title: 'Assassins Creed Origins Diary'
 ---
