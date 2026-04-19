@@ -4,15 +4,15 @@ date: 2022-01-01T14:16:00
 draft: false
 tags: ["game review", "battlefield"]
 ---
-### Short Version
+## Short Version
 
 I like the game. I enjoy the maps in Conquest. 128 players is the way to go for the future of Battlefield. Not a huge fan of operators, but it doesn't bother me too much, but if DICE removes the operators, that would be a huge step in the right direction. The game has a lot of potential and hopefully DICE will support this game the way they supported Battlefield 4. I would thoroughly recommend it for around $15. I believe there is fun to be had.
 
-### Long Version
+## Long Version
 
 I am writing this review having spent more than 100 hours in the game, and I believe I have a good grasp of the game mechanics, knowledge of the maps etc. Before I dive into the review, a little bit of my background.
 
-#### Background
+#### My Battlefield Background
 
 I play Battlefield for Conquest. I generally do not play any other game modes. I briefly dabbled in Rush in Bad Company 2 and Battlefield 3. In addition to this, I played a ton of TDM on Noshar Canals back in the day, but ever since I got decent at playing large scale conquest, I have been playing it exclusively for the most part. Majority of the time is spent as an infantry player. I believe Engineer was the class I played the most, however when I am playing with friends, I tend to play as the medic or support. I am not very good at sniping. I did manage to master all sniper rifles (got 500+ kills) in Battlefield 4.
 
@@ -20,9 +20,7 @@ As far as vehicles go, I enjoy playing in a tank, AA etc. I am not terrible as a
 
 I am yet to spend a lot of time on Portal. I intend to do that some time in the future and I will make a separate post about it. This post focuses on All out Warfare, specifically on Conquest.
 
-Here is my BattleLog profile -
-
-https://battlelog.battlefield.com/bf4/soldier/PatchRowcester/stats/335420502/pc/
+Find my BattleLog profile {{< newtab href="https://battlelog.battlefield.com/bf4/soldier/PatchRowcester/stats/335420502/pc/" text="HERE" >}}.
 
 #### Battlefield 2042 Beta and Initial Impressions
 
