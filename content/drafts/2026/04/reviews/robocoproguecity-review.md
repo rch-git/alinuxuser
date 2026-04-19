@@ -23,4 +23,8 @@ I did not watch the sequels to the first movie. This game is set after the event
 
 I did not play any attention to the story. I skipped most of the cut scenes, because even though I enjoyed the voice acting of Peter Weller, the story itself was boring to me. I couldn't bother with the internal politics of the police departmnet or care why a corporate overlord hates poor people, and wants to build a utopia. I just wanted to use cool weapons and kill enemies.
 
-Speaking of weapons, Auto 9 is awesome. You get to upgrade that by
+Speaking of weapons, Auto 9 is awesome. You get to upgrade that during the game, and towards the end, it is an unstoppable force. In addition to this, there are some very fun weapons throughout the game that can be picked up - rocket launcher, .50 cal sniper rifle etc. The issue with this system is that at the start of each mission, the pick up weapon is no longer equipped. You only get the use of the Auto 9 and a standard shotgun by default.
+
+There is definitely some busy work in the game - having to walk around the HQ, talk to other police officers, go down into the parking garage, and then initiate fast travel to the next location etc. This could have been made a lot tighter. There are also several skills in the game which I never bothered to upgrade. I just went with armor, vitality, focus and combat. Doing an occasional side quest and playing the main game will give you enough skills points to upgrade most of the attributes.
+
+Overall, this is an fantastic game, especially for a AA game.
