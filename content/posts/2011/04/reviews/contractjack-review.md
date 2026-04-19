@@ -2,7 +2,7 @@
 title: 'Contract J.A.C.K. (PC) Review'
 date: 2011-04-11T22:23:00
 draft: false
-tags: ["game review", "nolf"]
+tags: ["game review", "no one lives forever"]
 ---
 Its hard to imagine these were the same folks who gave us No One Lives Forever and No One Lives Forever 2. The fantastic humor, varied gameplay are all gone, and all that left is monotones shooter which tries hard to capture the magic of the previous games, but fails at just about everything and ends up being very bland. its not a terrible game, but its just not very good.
 
