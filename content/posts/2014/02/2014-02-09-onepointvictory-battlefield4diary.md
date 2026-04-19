@@ -1,5 +1,5 @@
 ---
-title: ' One Point Victory - Battlefield 4 Diary'
+title: 'One Point Victory - Battlefield 4 Diary'
 date: 2014-02-09T00:00:00
 draft: false
 tags: ["game diary", "battlefield 4"]
