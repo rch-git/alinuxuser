@@ -1,7 +1,7 @@
 ---
 title: 'Battlefield 2042 (PC) Review'
 date: 2022-01-01T14:16:00
-draft: true
+draft: false
 tags: ["game review", "battlefield"]
 ---
 ### Short Version
@@ -79,7 +79,9 @@ My hope is that loud minority of players who seem to want to play the 64 player 
 
 Weapons handle quite well after the first balance patch. At launch, the PP-29 was quite overpowered, and the ARs were just not good enough either in close or medium ranges. However, at the time of writing, it feels a lot more balanced. SVK and M5A3 are my favorite weapons in the game. I have not gotten a good handle on the sniper rifles, and I struggle quite a bit. I think this has more to do with me, than with the game. I just need to spend time as a sniper. I remember struggling quite a bit of BF4 as well, but I eventually got pretty decent with it.
 
-
+<p>
+{{< youtube 3CjCz-LJTWM >}}
+</p>
 
 This is such a happy departure from Battlefield V, and I am quite happy with it. I hope they don't try to do another TTK 2.0 in BF2042 like they did in BFV.
 
@@ -105,7 +107,9 @@ Weapon customization is much better in Battlefield 2042 compared to the previous
 
 The plus system is such a neat addition to the game. I find myself changing attachments often depending on the situation. Initially I thought that given the fast nature of Battlefield, the plus system would just be a gimmick, but I am happy I was proven wrong. I often switch between short range and long range scopes.
 
-
+<p>
+{{< youtube ppYpPlL9n34 >}}
+</p>
 
 #### Portal
 
@@ -113,10 +117,9 @@ This is a brilliant idea, provided DICE can support it, and bring more classic m
 
 https://patchrowcester.blogspot.com/2021/12/dice-has-something-very-special-in.html
 
-Fun With Friends
+#### Fun With Friends
 
 The lack of squad management, persistent servers etc. make it harder to play with strangers, but the game is fun when playing with friends. If you can get a party going, there is so much fun to be had here. We managed to be the top squad quite a few times once I started playing with my friend. This was hardly the case when I was playing with strangers. I really miss the BattleLog days, where I can easily join a server with my friends, but the new system works alright for the most part.
-
 
 Contrary to the popular opinion, there are a lot of tools in the game that allows for great team play. I find it amusing that the players that tend to complain about lack of team play are not team players themselves. They want other players to supply ammo and health, while they themselves want to do "fun" things like running and gunning. In other words, they want to be supported, but when it comes to offering support, they have better things to do.
 
@@ -130,9 +133,21 @@ Obviously not everything is well with the game. Some of it can be fixed, and som
 
 My god...who designed the UI/UX in the game? It is just awful. Every single icon in the game is visible at all times. There is no way to turn them off. Is there a ranger 300m away? Well, there is an icon for it. How about a downed teammate 300m away? Check. A capture point 1000m away? Check. Its a mess. For minimalist like me, this is beyond atrocious. At the time of this writing, it is reported that a patch in 2022 would give players the option to customize the UI. That patch can't come soon enough.
 
-The UI makes is very hard to spot enemies and its very distracting
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlefield2042-review/01-battlefield2042-review-BF2042_2021_11_19_16_56_02_619.jpg"
+    align="center"
+    caption="The UI makes is very hard to spot enemies and its very distracting"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlefield2042-review/01-battlefield2042-review-BF2042_2021_11_19_16_56_02_619.jpg"
+>}}
 
 Take this video for example -
+
+<p>
+{{< youtube xl1refgZY6s >}}
+</p>
 
 The UI is so distracting that I could not figure out that the player in front of me was an enemy. I admit it is my fault, but it just goes to show that with so many icons, I am having a hard time distinguishing between teammates and enemies. Why would DICE think it is a good idea to show revive icons, ranger icons 300m away? What am I supposed to do with the information? Or flag icons with no occlusion whatsoever? The utter lack of UI/UX options in this game is yet another example of the lack of care towards the game from the management.
 
@@ -146,6 +161,9 @@ The cut scenes at the start of each round is such an inexplicably idiotic design
 
 The spawn experience adds to the frustration on larger maps like Hourglass. If a player could not get a vehicle at spawn, and has to run to an objective on foot, only to get killed right away at a capture point, it really sours the entire experience. Why are there no transport vehicles (dirt bikes, quad bikes, jeeps etc.) at spawn? Also, why is it not possible to spawn on a transport vehicle directly from the spawn screen like in Battlefield 4?
 
+<p>
+{{< youtube gjmd24aveQ4 >}}
+</p>
 
 #### Lack of Cover & Transport Vehicles
 
@@ -181,8 +199,13 @@ At launch, there are 10 operators and DICE apparently will add more in the futur
 
 Of course bugs are bad, and all software has bugs, but some are more egregious than others. The ADS bug is absolutely awful. This particular issue occurs when exiting from a vehicle, ADS does not work. Imagine the frustration of players who get in a vehicle, and drive to a capture point, and exit the vehicle only to discover that ADS isn't working.
 
+<p>
+{{< youtube XlP8C-a3XPw >}}
+</p>
 
-
+<p>
+{{< youtube nw6OVFI-7lE >}}
+</p>
 
 There are other bugs with loadouts not showing up in game, but personally I did not encounter this a lot. I can only remember a couple of instances where this happened.
 
@@ -195,7 +218,17 @@ The lack of features in Battlefield 2042 compared to the older games is beyond d
 Here is a list of features that are missing compared to older games -
 
 - Scoreboard
-    Who would have thought this would be considered a legacy feature? The scoreboard as it exists now is quite bad.
+Who would have thought this would be considered a legacy feature? The scoreboard as it exists now is quite bad.
+
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlefield2042-review/02-battlefield2042-review-scoreboard-BF2042_2022_01_02_08_56_55_962.jpg"
+    align="center"
+    caption="Terrible scoreboard"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlefield2042-review/02-battlefield2042-review-scoreboard-BF2042_2022_01_02_08_56_55_962.jpg"
+>}}
 - Assists Count as Kills
     This was a great addition to BF4, and for some reason, it doesn't exist in BF2042.
 - Global Stats
@@ -208,6 +241,7 @@ Here is a list of features that are missing compared to older games -
 #### Music
 
 Battlefield 2042 has the worst music in any Battlefield game to date. I don't know what else to say. Gone are the fantastic soundtracks of the previous games, and instead we get this weird mess of soundtrack. Why? This is just sad.
-Conclusion
+
+### Conclusion
 
 I think Battlefield 2042 has a lot of potential. If DICE does the right thing, and supports the game like they did with Battlefield 4, I can see myself playing this game for years to come, like I did with BF4. I recommend this game to anyone who enjoys conquest, and liked Battlefield 4. To new players, pick it up for around $30, and I think there is enough content here to entertain for about 30-40 hours.
