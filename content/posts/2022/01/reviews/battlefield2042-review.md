@@ -1,7 +1,7 @@
 ---
 title: 'Battlefield 2042 (PC) Review'
 date: 2022-01-01T14:16:00
-draft: false
+draft: true
 tags: ["game review", "battlefield"]
 ---
 ### Short Version
