@@ -2,7 +2,7 @@
 date: '2006-03-10T00:00:00'
 draft: false
 title: 'Now Playing - GTA 3'
-tags: ["gta", "now playing"]
+tags: ["grand theft auto", "now playing"]
 ---
 I intend to write about the games that I am currently playing. I want to record my progress, and my thoughts through out the games that I play.
 
