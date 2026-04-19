@@ -16,7 +16,7 @@ build:
   list: false
   render: true
 ---
-I created this website after casually searching for a domain name on Namecheap, and to my surprise, I found this domain name was available.
+I created this website after casually searching for a domain name on Namecheap, and to my surprise, this domain name was available.
 
 I was quite happy with Blogger but its evident that Google abandoned it. I hope this is my forever blog.
 
