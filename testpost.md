@@ -79,6 +79,11 @@ How to escape symbols
 | April 8, 2026     | Rebound | U.S.-Iran ceasefire/truce signals emerge; major relief rally begins as investors price in de-escalation. |
 | April 15, 2026    | 7,022.95 | New all-time high; S&P 500 surpasses previous record (Jan 28 high) and crosses back above 7,000. Full recovery of all Iran-war losses + new record set.|
 
+#### strikethrough
+
+`~~Battlefield 1 SP~~`
+~~Battlefield 1 SP~~
+
 #### youtube video
 
 <p>
