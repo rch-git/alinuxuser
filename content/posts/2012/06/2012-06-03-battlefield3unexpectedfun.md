@@ -10,12 +10,12 @@ Having bought the game however, I encountered several problems with it. I am qui
 
 {{<
     figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlefield3unexpectedfun/01_battlefield3unexpectedfun.jpg"
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlefield3unexpectedfun/01_battlefield3unexpectedfun-2012-11-21-battlelog-error.jpg"
     align="center"
     caption="Battlefield 3 - Something went wrong with the game error"
     target="_blank"
     rel="noopener"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlefield3unexpectedfun/01_battlefield3unexpectedfun.jpg"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlefield3unexpectedfun/01_battlefield3unexpectedfun-2012-11-21-battlelog-error.jpg"
 >}}
 
 I returned the game, and Amazon were kind enough to refund the entire money.
@@ -28,18 +28,14 @@ The game seemed vastly improved, and I did not encounter the long load times; I 
 
 Well, I am glad I gave Battlefield 3 another chance. It can be chaotic in the beginning, but once I got the hang of it, its truly awesome.
 
-Here is the link to my profile to those we might be interested in seeing my stats:
-
-http://battlelog.battlefield.com/bf3/user/PatchRowcester/
+Here is the link to my profile to those we might be interested in seeing my stats {{< newtab href="http://battlelog.battlefield.com/bf3/user/PatchRowcester/" text="HERE" >}}.
 
 I am also considering buying the expansion.
 
 I will make a blog about tips that might help novice players like myself based on my experience.
 
-Here is a screenshot of me getting better of my fiance! We usually play together, but she ended up in the opposite team, and that gave me a chance to frag her. She wasn't very happy about it!
+Here is a video of me getting better of my fiance! We usually play together, but she ended up in the opposite team, and that gave me a chance to frag her. She wasn't very happy about it!
 
-Patch wins!
-The day my fiance got pwned in Battlefield 3 :)
 <p>
 {{< youtube ZXjgwwfLmyA >}}
 </p>
