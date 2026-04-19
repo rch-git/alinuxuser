@@ -2,7 +2,7 @@
 title: 'Towers Of Hanoi in Java'
 date: 2017-09-05T05:38:00
 draft: false
-tags: ["java"]
+tags: ["programming"]
 ---
 ```
 package recursion;
