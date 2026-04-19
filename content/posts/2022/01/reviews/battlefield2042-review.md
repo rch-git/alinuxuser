@@ -205,7 +205,23 @@ These are aspects of the game that defy logic, that are egregious mistakes, demo
 
 Who asked for this? Why do they exist? Going on a small tangent, I do not understand why people in charge feel the need to make changes that no one in the community (not game journalists, but people that actually play the game for more than a week after launch) think is a good idea. Is it arrogance? Is it ignorance? A calculated attempt at micro transactions? I do not know. I spent more than 4000 hours across all Battlefield games (not bragging), and not once did I think this game would benefit by imitating hero shooters. It is such a ridiculous, out of touch idea that it had to be made by people who never played the game. I refuse to believe that an actual Battlefield player came up with this.
 
+<p>
+{{< youtube 4dN9Xwf6_ck >}}
+</p>
+
 Instead of setting up an epic battle between world powers, we now have "nopats" as they are called. This means there will be same operators on either side. I wish they at least took the time to have faction specific skins or something to distinguish between friend and foe, except for the hovering green or red icon.
+
+The worst offender for me was Sundance. Sundance is the unhinged, septum-pierced cringe goblin of Battlefield 2042 who sprints like a feral raccoon on bath salts, yeeting explosive and C5 charges at anything that moves while screaming what a time to be alive.
+
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlefield2042-review/04-battlefield2042-review-BF2042_2023_03_11_23_12_30_166.jpg"
+    align="center"
+    caption="Cringe"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlefield2042-review/04-battlefield2042-review-BF2042_2023_03_11_23_12_30_166.jpg"
+>}}
 
 At launch, there are 10 operators and DICE apparently will add more in the future. As of now, I felt Angel, Mackay and Sundance were the most useful, and everyone else is not quite as useful, at least for my play style. It felt as if DICE created a specialist instead of gadget. For example, what is the point of Irish, Dozer, Paik or Rao? I feel that their abilities could have been gadgets...so I fail to see why these characters even exist in the game.
 
