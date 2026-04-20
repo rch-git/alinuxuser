@@ -4,6 +4,8 @@ date: 2007-11-04T00:00:12
 draft: false
 tags: ["game review", "tomb raider"]
 ---
+_I finished this game on `Thursday, May 2, 2002, 12:08:00 PM`. This review was published on GameSpot on November 4, 2007._
+
 Modern day gamers are very jaded. They are desensitized and it takes a lot to surprise them, and for a good reason too; they have seen it all happen in the last few years. Gaming has changed completely from what it was in the early 90s.
 
 Gamers are very demanding; it’s almost impossible for a game to be unanimously accepted as a great game. No matter what game we are talking about, there are gamers who seem to find it detestable; even the mighty Half Life 2 wasn’t spared by contemporary gamers. It got ratings all the way from 3-10 on GameSpot.
