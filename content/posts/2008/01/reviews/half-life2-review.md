@@ -1,5 +1,5 @@
 ---
-title: 'Half Life 2 (PC) Review'
+title: 'Half-Life 2 (PC) Review'
 date: 2008-01-05T00:00:00
 draft: false
 tags: ["game review", "half-life"]
