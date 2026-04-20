@@ -1,8 +1,8 @@
 ---
 date: '2006-08-27T00:00:00'
 draft: false
-title: 'Now Playing - Half Life'
-tags: ["half life", "Now Playing"]
+title: 'Now Playing - Half-Life'
+tags: ["half-life", "Now Playing"]
 ---
 #### 6:09 PM 8/27/2006
 

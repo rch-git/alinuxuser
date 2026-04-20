@@ -2,7 +2,7 @@
 date: 2023-09-16T15:37:00
 draft: false
 title: 'Half-Life: Blue Shift (PC) Review'
-tags: ["half life", "game review"]
+tags: ["half-life", "game review"]
 ---
 Well worth the $0.50 I paid for it.
 
