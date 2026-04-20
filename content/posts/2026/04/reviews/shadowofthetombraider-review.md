@@ -54,3 +54,5 @@ This is where the game truly shines. Shadow of the Tomb Raider is easily the bes
 Despite the weak story, bloated systems, and padding, the game is still a solid recommendation, especially if you get it cheap or free. It’s the best-looking Tomb Raider ever made and a lot of fun when you overlook the narrative and RPG bloat. The stunning visuals, strong level design, and enjoyable core gameplay completely carry it. I had more fun with Shadow than I did with Rise of the Tomb Raider.
 
 If you can ignore (or skip) most of the story and just focus on the adventure, it’s a very good game. I would happily have paid $5 for it—anything more feels like overpaying for all the unnecessary filler.
+
+The only Tomb Raider game left for me to finish now is Tomb Raider Underworld. I don't think I will ever play Tomb Raider Anniversary.
