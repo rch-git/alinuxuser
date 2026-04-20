@@ -27,3 +27,5 @@ However, there are a few faults that are worth mentioning. The game has certain 
 That said I couldn't find any other problems with the game. The only problem is a technical issue; I have no complaints at all with the gameplay elements. It is a fantastic journey that you will embark on, the moment you set your foot outside the train and into the subjugated City 17.
 
 This game has to go down in history as one of the best games ever.
+
+_This post is published on Apr 20, 2026 Monday 06:34:34 AM CDT_

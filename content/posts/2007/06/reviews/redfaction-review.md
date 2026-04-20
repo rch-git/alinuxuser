@@ -31,3 +31,5 @@ The audio in the game is good, no complaints here, although the constant screami
 My final verdict – standard FPS fare, that doesn’t deviate much from the generic formula and for a good reason. The geo mod technology is an interesting feature, pity it wasn’t implemented more often.
 
 Worth playing.
+
+_This post is published on Apr 20, 2026 Monday 06:32:42 AM CDT_

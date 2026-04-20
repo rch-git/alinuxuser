@@ -31,3 +31,5 @@ While I admire the fact that Novalogic have taken a different approach, the game
 It’s pretty sad that a series that was released in 2000 has virtually remained unchanged for over two years, and the graphics and gameplay have been rehashed to create a new bunch of titles in 2002. They are just not good enough to keep you interested for long.
 
 __Verdict – Fail.__
+
+_This post is published on Apr 20, 2026 Monday 06:35:21 AM CDT_
