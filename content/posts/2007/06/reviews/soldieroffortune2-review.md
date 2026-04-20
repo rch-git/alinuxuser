@@ -1,5 +1,5 @@
 ---
-title: 'Soldier of Fortune II: Double Helix Review'
+title: 'Soldier of Fortune II: Double Helix (PC) Review'
 date: 2007-06-26T00:00:00
 draft: false
 tags: ["game review", "soldier of fortune"]
@@ -22,7 +22,14 @@ In Soldier of Fortune 2, you reprise role of John Mullins. He is a Rambo in disg
 
 The game uses a modified version of Quake 3 engine and Raven’s GHOUL II technology. It’s not cutting edge, even for its time, but the engine had never been modified this way, it actually looks good because of the high polygon count. There seems to be some sort of a problem when the game is played at the highest detail. Everything appears to be like an architectural model, so I had to reduce the detail. The water looked like this during the entire game:
 
-http://img127.imageshack.us/img127/2303/copyofsoldieroffortune2fl6.jpg
+{{<
+    figure
+    src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/soldieroffortune2-review/01-soldieroffortune2-review.jpg"
+    align="center"
+    caption="Water mesh"
+    target="_blank"
+    rel="noopener"
+>}}
 
 The locales are varied, and you don’t linger in one place for too long, so at least that part it doesn’t get repetitive.
 
@@ -46,6 +53,6 @@ Once you are through with the missions, you don’t have to uninstall this game 
 
 The random mission generator however, is an interesting feature. You can select different types of missions like assassination, infiltration, demolition, escape. You can customize the mission by choosing the difficulty, time of the day, time limit and location. Once you do that, you are off on a single independent mission. This increases the replay value of the game quite a bit.
 
-This is not the most spectacular game you will ever seen, neither is it groundbreaking, but it’s a solid game, that will guarantee some hours of fun.
+This is not the most spectacular game you will ever see, neither is it groundbreaking, but it’s a solid game, that will guarantee some hours of fun.
 
 _This post is published on Apr 20, 2026 Monday 06:50:14 AM CDT_
