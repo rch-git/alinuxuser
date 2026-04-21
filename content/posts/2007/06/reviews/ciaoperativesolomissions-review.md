@@ -1,6 +1,6 @@
 ---
 title: 'CIA Operative: Solo Missions Review'
-date: 2026-04-20T17:23:27
+date: 2007-06-24T00:00:00
 draft: false
 tags: ["game review"]
 ---
