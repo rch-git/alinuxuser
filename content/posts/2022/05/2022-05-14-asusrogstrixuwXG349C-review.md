@@ -32,6 +32,15 @@ Needless to say to run games at 3440x1440 resolution, and at such a high refresh
 
 Games look absolutely fantastic on this monitor. Prior to the upgrade, I was playing on {{< newtab href="https://www.example.com" text="ASUS ROG Swift" >}}, which was a great monitor for its time. Its a WQHD monitor running at 144Hz, and it was a dream for most gamers. However, we now have IPS panels with the same specifications as TN panels, and upgrading from a 16:9 TN panel to a 21:9 IPS panel is significant.
 
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/asusrogstrixuwXG349C-review/03-asusrogstrixuwXG349C-review-20220506_061138.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/asusrogstrixuwXG349C-review/03-asusrogstrixuwXG349C-review-20220506_061138.jpg"
+>}}
+
 The first game I tried with the ultrawide is Cyberpunk 2077. I put off playing this game till now because I was waiting for it to be updated. I was fairly confident that CD Project would fix the game over time. With the release of Update 1.52, it felt like it was the right time to play this game, but I didn't just want to play this game, I wanted to play it with all the bells and whistles, at a high resolution, on ultra settings with RTX enabled at a good framerate. With the purchase of this monitor, my machine was complete.
 
 As shown in the benchmark video below, the results are fantastic. The game runs at an average framerate of ~60FPS.
@@ -42,8 +51,26 @@ Getting older games to work right on ultrawide resolutions is always a challenge
 
 I was very surprised to discover that Indiana Jones and the Emperor's Tomb, a game released in 2003 worked fine with a widescreen patch. Of course, this is less to do with the monitor itself, and more to do with software support for older games.
 
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/asusrogstrixuwXG349C-review/04-asusrogstrixuwXG349C-review-indy_2022_05_10_20_33_02_053.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/asusrogstrixuwXG349C-review/04-asusrogstrixuwXG349C-review-indy_2022_05_10_20_33_02_053.jpg"
+>}}
+
 I was willing to put up with playing older games in either a windowed mode or on the second display, if I could play the latest games at ultrawide resolution with all settings at ultra, and RTX enabled. I definitely feel gaming at ultrawide resolution is very immersive, much more so than a regular widescreen resolution. This was the reason why I decided against getting a 4k monitor, because 21:9 aspect ratio just feels right.
 
 For someone looking to upgrade to an ultrawide, I would thoroughly recommend this monitor. It is a bit expensive, but assuming its within the budget, there is a lot of fun to be had here.
 
 EDIT - I added another monitor to my setup. They were giving away old monitors at work, so I took one home.
+
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/asusrogstrixuwXG349C-review/05-asusrogstrixuwXG349C-review-20220516_210619.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/asusrogstrixuwXG349C-review/05-asusrogstrixuwXG349C-review-20220516_210619.jpg"
+>}}
