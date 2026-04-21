@@ -30,7 +30,7 @@ Setting up the monitor is very simple. Its just a matter of assembling the base,
 
 Needless to say to run games at 3440x1440 resolution, and at such a high refresh rate, a powerful GPU is needed. I am currently running an {{< newtab href="https://www.newegg.com/msi-geforce-rtx-3080-ti-rtx-3080-ti-gaming-x-trio-12g/p/N82E16814137650?Item=N82E16814137650" text="MSI GeForce RTX 3080 Ti 12GB Gaming X Trio" >}}. I would not recommend upgrading to this monitor unless there is a capable GPU powering the machine. I think a 1080Ti or an AMD equivalent is probably a minimum for a 1440p ultrawide monitor.
 
-Games look absolutely fantastic on this monitor. Prior to the upgrade, I was playing on {{< newtab href="https://www.example.com" text="ASUS ROG Swift" >}}, which was a great monitor for its time. Its a WQHD monitor running at 144Hz, and it was a dream for most gamers. However, we now have IPS panels with the same specifications as TN panels, and upgrading from a 16:9 TN panel to a 21:9 IPS panel is significant.
+Games look absolutely fantastic on this monitor. Prior to the upgrade, I was playing on {{< newtab href="https://www.blogbytes.net/2015/01/asus-rog-swift-pg278q.html" text="ASUS ROG Swift" >}}, which was a great monitor for its time. Its a WQHD monitor running at 144Hz, and it was a dream for most gamers. However, we now have IPS panels with the same specifications as TN panels, and upgrading from a 16:9 TN panel to a 21:9 IPS panel is significant.
 
 {{<
     figure
@@ -45,9 +45,21 @@ The first game I tried with the ultrawide is Cyberpunk 2077. I put off playing t
 
 As shown in the benchmark video below, the results are fantastic. The game runs at an average framerate of ~60FPS.
 
+<p>
+{{< youtube Ina_iFkp8xI >}}
+</p>
+
 Without RTX, I get around 100FPS. For me the sacrifice in framerate for graphics fidelity is worth it.
 
+<p>
+{{< youtube A_TBaPLM_lw >}}
+</p>
+
 Getting older games to work right on ultrawide resolutions is always a challenge. Assassin's Creed Rogue had a lot of issues out of the box. I found a patch that enabled higher resolutions, but the game just didn't look and feel right. So I switched back to playing at 1920x1080 in borderless windowed mode.
+
+<p>
+{{< youtube SVIVM_SuXJw >}}
+</p>
 
 I was very surprised to discover that Indiana Jones and the Emperor's Tomb, a game released in 2003 worked fine with a widescreen patch. Of course, this is less to do with the monitor itself, and more to do with software support for older games.
 
@@ -74,3 +86,5 @@ EDIT - I added another monitor to my setup. They were giving away old monitors a
     rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/asusrogstrixuwXG349C-review/05-asusrogstrixuwXG349C-review-20220516_210619.jpg"
 >}}
+
+_This post is published on Apr 21, 2026 Tuesday 05:53:56 AM CDT_
