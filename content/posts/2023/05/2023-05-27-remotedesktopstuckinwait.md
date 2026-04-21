@@ -2,7 +2,7 @@
 title: 'Remote Desktop Connection Stuck In Please Wait State'
 date: 2023-05-27T15:02:00
 draft: false
-tags: ["game review"]
+tags: ["guide"]
 ---
 I found this solution in the {{< newtab href="https://learn.microsoft.com/en-us/answers/questions/451406/rdp-to-windows-10-hangs-at-please-wait-screen" text="Q&A section" >}} of Microsoft Learn. Credit goes to the original author.
 
@@ -101,16 +101,44 @@ Another way to resolve this issue is resetting the session. It is important to n
 4. Run the following query -
     `"reset session [session_name] /server:[server_name]"`
 
-
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/remotedesktopstuckinwait/07-remotedesktopstuckinwait-2023-05-27-14_49_03.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/remotedesktopstuckinwait/07-remotedesktopstuckinwait-2023-05-27-14_49_03.jpg"
+>}}
 
 This should reset the session and allow logging into the server via remote desktop.
 
 In addition to this, I was having an issue when using Remote Desktop Connection Manager the session would get stuck in a Please Wait state. I was not having this issue when using native Windows RDP.
 
-I found a potential solution on this following page -
-RDP to Windows 10 hangs at Please wait screen
+I found a potential solution on this following page - {{< newtab href="https://learn.microsoft.com/en-us/answers/questions/451406/rdp-to-windows-10-hangs-at-please-wait-screen" text="RDP to Windows 10 hangs at Please wait screen" >}}
 
-Computer Configuration -> Administrative Templates -> Windows Components -> Remote Desktop Services -> Remote Desktop Session Host -> Connections
+
+`Computer Configuration -> Administrative Templates -> Windows Components -> Remote Desktop Services -> Remote Desktop Session Host -> Connections`
 
 At that level Enable the following setting
+
 - Restrict Remote Desktop Services User to a Single Remote Desktop Services Session
+
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/remotedesktopstuckinwait/08-remotedesktopstuckinwait-2023-11-23-10_23_26.jpg"
+    align="center"
+    width="512"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/remotedesktopstuckinwait/08-remotedesktopstuckinwait-2023-11-23-10_23_26.jpg"
+>}}
+
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/remotedesktopstuckinwait/09-remotedesktopstuckinwait-2023-11-23-10_23_50.jpg"
+    align="center"
+    width="512"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/remotedesktopstuckinwait/09-remotedesktopstuckinwait-2023-11-23-10_23_50.jpg"
+>}}
