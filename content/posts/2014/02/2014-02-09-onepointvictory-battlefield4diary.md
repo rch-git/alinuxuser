@@ -2,7 +2,7 @@
 title: 'One Point Victory - Battlefield 4 Diary'
 date: 2014-02-09T00:00:00
 draft: false
-tags: ["game diary", "battlefield 4"]
+tags: ["game diary", "battlefield"]
 ---
 On February 9, 2014, I had this urge to play as a sniper with a suppressed SV-98. I have gotten a lot better playing as a sniper over the course of Battlefield 4 and Battlefield 1, but at the time, I was pretty terrible.
 

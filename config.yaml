@@ -73,6 +73,7 @@ params:
     css:
       - css/extended/custom-font.css
       - css/extended/italicsblock.css
+      - css/extended/wrap-text.css
 
   label:
     text: "alinuxuser"
