@@ -90,7 +90,7 @@ Looking back at the statements made by the DICE team, there can only be two conc
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/stateofgamebattlefield2042/07-stateofgamebattlefield2042-2022-05-04-20_08_24.jpg"
 >}}
 
-So how is this any different than Battlefield 4, because Battlefield 4 had an awful launch, which I wrote about HERE. Well, 2013 was a very different time. There wasn't as much competition in the multiplayer FPS games. Now you have Fortnite, Warzone, Apex legends, CSGO, PUBG all pulling in hundreds of thousands of players, so its very difficult for a bad game to recover. I don't necessarily think BF2042 is a bad game, I had more fun playing it than Battlefield V, but the problem with Battlefield 2042 is that at its core, it wasn't meant to be a Battlefield game.
+So how is this any different than Battlefield 4, because Battlefield 4 had an awful launch, which I wrote about {{< newtab href="/posts/2013/11/2013-11-17-battlefield4launchfiasco/" text="HERE" >}}. Well, 2013 was a very different time. There wasn't as much competition in the multiplayer FPS games. Now you have Fortnite, Warzone, Apex legends, CSGO, PUBG all pulling in hundreds of thousands of players, so its very difficult for a bad game to recover. I don't necessarily think BF2042 is a bad game, I had more fun playing it than Battlefield V, but the problem with Battlefield 2042 is that at its core, it wasn't meant to be a Battlefield game.
 
 Battlefield 4 was able to recover and redeem itself because fundamentally, it was a Battlefield game. DICE was not trying to reinvent the wheel. It took all the good things about Battlefield 3 and made them better over time, and there was a lot of content, so I never got the feeling I've done it all.
 
