@@ -33,7 +33,7 @@ mv ~/git/alinuxuser/hugo.yaml ~/git/alinuxuser/config.yaml
 # Create netlify.toml and add build options
 
 # create a new hugo post
-sysuser@ubuntuprod:~/git/alinuxuser (dev -> origin/dev)$ hugo new posts/2017/02/reviews/watcher2_review.md
+sysuser@ubuntuprod:~/git/alinuxuser (dev -> origin/dev)$ hugo new posts/2017/02/reviews/witcher2-review.md
 sysuser@ubuntuprod:~/git/alinuxuser (dev -> origin/dev)$ hugo new drafts/2023/12/2023-12-22-assassinscreedorigins-diary.md
 
 
