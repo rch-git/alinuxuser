@@ -144,3 +144,5 @@ Corporations have no morals, decency and on the best of days, they have a fleeti
 It is unfortunate that it has come to this, but DICE really made a mess with Battlefield 2042, and given all the turnover at the studio, there is a strong possibility that the best days of Battlefield are behind us.
 
 If this post convinced at least 5 people to not pre order the next game, then my work here is done.
+
+_This post is published on Apr 21, 2026 Tuesday 05:26:51 AM CDT_
