@@ -12,3 +12,6 @@ Back when Doom 3 was released—many moons ago—everyone praised the graphics, 
 
 After Doom 3 and Resurrection of Evil, the series went on a hiatus. Just like Quake. There were talks about Doom 4 here and there, but it felt like the game landscape has changed drastically. Call of Duty was at the peak of its popularity, and it was untouchable. Rage was considered a very mediocre game and the sales reflected that. In 2013 John Carmack left Id Software, I had very little hope for the next Doom game. There were talks about how the next Doom game was in the works, and it was more like Rage and Call of Duty inspired. I had no hopes whatsoever. I did not want Call of Doom. I gave up on Doom being good.
 
+Then there was a surprise demonstration when the next Doom game was revealed. It looked very good. It didn't feel like Call of Doom. There were hopes!
+
+
