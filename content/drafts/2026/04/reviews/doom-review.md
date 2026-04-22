@@ -14,3 +14,5 @@ After Doom 3 and Resurrection of Evil, the series went on a hiatus. Just like Qu
 
 Then there was a surprise demonstration when the next Doom game was revealed. It looked very good. It didn't feel like Call of Doom. There was hope! I did learn that the game has some console aspects to it. No quick save, quick load, and only uses checkpoint system. I wrote about my thoughts on quick save {{< newtab href="/posts/2012/03/2012-03-03-whathappenedtoquicksave/" text="here" >}}.
 
+I did not purchase the game at launch. I purchased this on June 10, 2022 for $4.99. Totally worth it. I finished it on Monday, May 8, 2023, 8:55:00 PM. I played it on my main machine which is running a 3080Ti. I was able to run this game at the highest settings. This game looks amazing at 3440x1440 resolution. I recommend playing this game on a high end machine to get the full experience. 
+
