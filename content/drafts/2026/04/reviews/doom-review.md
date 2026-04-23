@@ -4,6 +4,34 @@ date: 2026-04-21T20:21:21
 draft: false
 tags: ["game review", "doom"]
 ---
+
+I once wrote a short review of Doom (2016), but that didn’t capture how good this game really is. This is one of the best FPS games I’ve ever played, and it deserves better. I need yell more into the void about how good the game is.
+
+Doom 3 was visually impressive but divisive. It leaned heavily into horror, and while I enjoyed parts of it, I never finished it—mostly because of the spiders. After Doom 3 and Resurrection of Evil, the franchise went quiet. The industry shifted toward Call of Duty–style shooters, Rage underperformed, and John Carmack left id Software in 2013. Rumors suggested Doom 4 was becoming a COD-inspired game, and I lost hope. I didn’t want “Call of Doom.”
+
+### 3. The Reveal
+Then the surprise reveal happened. The new Doom looked fast, aggressive, and unmistakably Doom. It wasn’t trying to imitate anything else. Even though it used a checkpoint-only save system (no quick save/quick load), it still looked promising enough to restore my optimism.
+
+### 4. My Playthrough
+I didn’t buy the game at launch. I picked it up on June 10, 2022 for $4.99—absolutely worth it. I finished it on May 8, 2023. I played on a 3080 Ti at 3440×1440 with max settings, and the game looked incredible. If you can, play this on a high-end machine.
+
+I completed the campaign in about 15 hours on Hurt Me Plenty, which I think is the ideal difficulty for most players.
+
+### 5. Gameplay
+Doom (2016) is pure gameplay. It never wastes your time. From the moment you step out of the chamber, it’s nonstop action. There is a story, but it never interrupts the flow—I remember maybe two cutscenes.
+
+The level design is excellent, and the art direction is striking. This game is nothing like Doom 3, and it’s definitely not “Call of Doom.” It’s fast, fluid, and confident in its identity.
+
+There are plenty of secrets and optional challenges. I didn’t chase all of them, but there’s a lot here for players who enjoy exploration.
+
+### 6. Soundtrack
+The soundtrack is phenomenal—easily on the level of Halo, Deus Ex, Assassin’s Creed IV: Black Flag, and Doom Eternal. I hate that Doom Eternal has an even better soundtrack, because the game itself didn’t land for me.
+
+### 7. Final Thoughts
+Doom (2016) is one of the best FPS games ever made. Every fan of the genre should play it.
+
+I’ll eventually pick up Doom: The Dark Ages. I know it’s different, but I’m sure it’ll still be fun—even if it doesn’t reach the same heights as Doom (2016).
+
 I wrote a very brief review of this game a while ago. This is one of the best games I ever played. What more can I say?
 
 I felt like I should elaborate a little more on why I think this is one of the best games ever made.
@@ -28,4 +56,4 @@ How can we talk about Doom, and not mention the music. DOOM soundtrack is right 
 
 This is one of the best games ever made. Every FPS fan should play it.
 
-I will buy Doom Ark Ages some day, but I know its nothing like this game.
+I will buy Doom Ark Ages some day. I know its very different than DOOM, but I think it might be a fun game—even if its not an all time great.
