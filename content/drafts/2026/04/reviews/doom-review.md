@@ -17,7 +17,6 @@ I didn’t buy the game at launch. I picked it up on June 10, 2022 for $4.99—a
 
 I completed the campaign in about 15 hours on Hurt Me Plenty, which I think is the ideal difficulty for most players.
 
-### 5. Gameplay
 Doom (2016) is pure gameplay. It never wastes your time. From the moment you step out of the chamber, it’s nonstop action. There is a story, but it never interrupts the flow—I remember maybe two cutscenes.
 
 The level design is excellent, and the art direction is striking. This game is nothing like Doom 3, and it’s definitely not “Call of Doom.” It’s fast, fluid, and confident in its identity.
