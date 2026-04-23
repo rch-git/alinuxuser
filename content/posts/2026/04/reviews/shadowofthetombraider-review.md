@@ -45,7 +45,7 @@ Now for the things that make this game good, and sometimes borderline great - vi
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/shadowofthetombraider-review/01-shadowofthetombraider-review-2025_06_22_18_35_10_713.jpg"
 >}}
 
-This is where the game truly shines. Shadow of the Tomb Raider is easily the best-looking Tomb Raider game ever made. The environments are vibrant and detailed, the locations feel exotic and alive, and the underwater sections are incredible. South America is an excellent choice, and I like the art direction. The level design is excellent, and when you combine the top-tier visuals with strong puzzle design, you get a genuinely great action-adventure experience. Exploring these environments made me imagine how incredible a remake of Tomb Raider 3’s India levels would look in this engine.
+This is where the game truly shines. Shadow of the Tomb Raider is easily the best-looking Tomb Raider game ever made. The environments are very vibrant and the underwater sections are incredible. South America is an excellent choice, and I like the art direction. When you combine the top-tier visuals with strong puzzle design, you get a genuinely great action-adventure experience. Exploring these levels makes me wonder how great a remake of Tomb Raider 3’s India levels would look in this engine. Its unlikely that we will get a true remake of Tomb Raider III, and even if we did, they will ruin it to appease people online will never buy or play their game. The spine needed to stay true to the creative vision is largely absent in modern gaming. The primary focus of games (and other media) these days is not to entertain—but to preach corporate support to the current thing.
 
 <p>
 {{< youtube vvXK8Asxjug >}}
