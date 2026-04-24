@@ -1,7 +1,8 @@
 ---
-date: 2026-04-24T13:38:08
+title: "Games Completed"
+description: "Games Completed"
+date: 2026-04-24T14:02:36
 draft: false
-title: 'Games Completed'
 ---
 | Date                                      | Game                                              |
 |-------------------------------------------|---------------------------------------------------|
