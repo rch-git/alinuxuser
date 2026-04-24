@@ -5,11 +5,11 @@ draft: false
 tags: ["game review", "doom"]
 ---
 
-I once wrote a short review of Doom (2016), but that didn’t capture how good this game really is. This is one of the best FPS games I’ve ever played, and it deserves better. I need yell more into the void about how good the game is.
+I once wrote a short review of Doom (2016), but that didn’t capture how good this game really is. This is one of the best FPS games I’ve ever played, and I need yell more into the void about how good the game is.
 
 Doom 3 was visually impressive but divisive. It leaned heavily into horror, and while I enjoyed parts of it, I never finished it—mostly because of the spiders. After Doom 3 and Resurrection of Evil, the franchise went quiet. The industry shifted toward Call of Duty–style shooters, Rage underperformed, and John Carmack left id Software in 2013. Rumors suggested Doom 4 was becoming a COD-inspired game, and I lost hope. I didn’t want “Call of Doom.”
 
-### 3. The Reveal
+
 Then the surprise reveal happened. The new Doom looked fast, aggressive, and unmistakably Doom. It wasn’t trying to imitate anything else. Even though it used a checkpoint-only save system (no quick save/quick load), it still looked promising enough to restore my optimism.
 
 ### 4. My Playthrough
@@ -30,7 +30,7 @@ The soundtrack is phenomenal—easily on the level of Halo, Deus Ex, Assassin’
 Doom (2016) is one of the best FPS games ever made. Every fan of the genre should play it.
 
 I’ll eventually pick up Doom: The Dark Ages. I know it’s different, but I’m sure it’ll still be fun—even if it doesn’t reach the same heights as Doom (2016).
-
+----
 I wrote a very brief review of this game a while ago. This is one of the best games I ever played. What more can I say?
 
 I felt like I should elaborate a little more on why I think this is one of the best games ever made.
