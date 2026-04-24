@@ -23,7 +23,7 @@ Then the surprise reveal happened. I believe it was E3 or QuakeCon in 2015. The 
 
 The game was released to great reviews in 2016. Even though it used a checkpoint-only save system (no quick save/quick load), it still looked promising enough to restore my optimism.
 
-I didn’t buy the game at launch. I picked it up on June 10, 2022 for $4.99—absolutely worth it. I finished it on May 8, 2023. I played on a 3080 Ti at 3440×1440 with max settings, and the game looked incredible. If you can, play this on a high-end machine.
+I didn’t buy the game at launch. I picked it up on June 10, 2022 for $4.99—absolutely worth it. I finished it on May 8, 2023. I played on a 3080 Ti at 3440×1440 with max settings, and the game looked incredible. The id Tech engine was put to very good use.
 
 <p>
 {{< youtube UGNAVRuyUcY >}}
@@ -35,7 +35,7 @@ I completed the campaign in about 15 hours on Hurt Me Plenty, which I think is t
 {{< youtube SmqqQEtYpSo >}}
 </p>
 
-Doom (2016) is pure gameplay. It never wastes your time. From the moment you step out of the chamber, it’s nonstop action. There is a story, but it never interrupts the flow—I remember maybe two cutscenes. I love this. Most stories in games are very bad and boring. I don't know what the story is about in DOOM. It felt like a complete after thought, and that's a good thing. DOOM should be able to gameplay and level design. If the writers could come up with an interesting story, great. If not, the story should be this -you play as the Doom guy, and he is angry, and wants to kill everything and save Mars. That's good enough.
+Doom (2016) is pure gameplay. It never wastes your time. From the moment you step out of the chamber, it’s nonstop action. There is a story, but it never interrupts the flow—I remember maybe two cutscenes. I love this. Most stories in games are very bad and boring. I don't know what the story is about in DOOM. It felt like a complete after thought, and that's a good thing. DOOM should be able to gameplay and level design. If the writers could come up with an interesting story, great. If not, the story should be this - you play as the Doom guy, and he is angry, and wants to kill everything and save Mars. That's good enough.
 
 
 {{<
@@ -48,12 +48,22 @@ Doom (2016) is pure gameplay. It never wastes your time. From the moment you ste
     link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/doom-review/03-doom-review-2023_04_01_18_08_00_387.jpg"
 >}}
 
-The level design and art direction are excellent. I
+The level design and art direction are excellent. There are very few games that approach this level of creativity. At highest settings, this is one of the best looking games ever made, and its also very optimized. On my machine, I was getting 180 (my monitor's max) without any noticeable frame rate drops. DOOM deserves to be played at the highest settings (resolution, frame rate and graphics quality). Its one of the best looking games ever made.
 
-There are plenty of secrets and optional challenges. I didn’t chase all of them, but there’s a lot here for players who enjoy exploration.
+{{<
+    figure
+    src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/doom-review/04-doom-review-2023_05_07_13_16_50_600.jpg"
+    align="center"
+    caption="Hell"
+    target="_blank"
+    rel="noopener"
+    link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/doom-review/04-doom-review-2023_05_07_13_16_50_600.jpg"
+>}}
 
-### 6. Soundtrack
-The soundtrack is phenomenal—easily on the level of Halo, Deus Ex, Assassin’s Creed IV: Black Flag, and Doom Eternal. I hate that Doom Eternal has an even better soundtrack, because the game itself didn’t land for me.
+
+In addition to fast gameplay, there are plenty of secrets and optional challenges. I didn’t chase all of them, but there’s a lot here for players who enjoy exploration.
+
+The soundtrack is phenomenal—easily on the level of Halo, Deus Ex, Assassin’s Creed IV: Black Flag, and Doom Eternal. I hate that Doom Eternal has an even better soundtrack, because I didn't enjoy it as much.
 
 ### 7. Final Thoughts
 Doom (2016) is one of the best FPS games ever made. Every fan of the genre should play it.
