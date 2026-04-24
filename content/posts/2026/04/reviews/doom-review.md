@@ -3,6 +3,11 @@ title: 'DOOM (PC) Review'
 date: 2026-04-21T20:21:21
 draft: false
 tags: ["game review", "doom"]
+cover:
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/doom-review/06-doom-review-20231120_185848.jpg"
+  alt: 'Doom Setup'
+  caption: 'Doom Setup. I really like this game'
+  relative: false # ← explicit for static folder images
 ---
 
 I once wrote a short review of Doom (2016), but that didn’t capture how good this game really is, and I need yell more into the void about how much I enjoyed it.
@@ -66,15 +71,5 @@ The soundtrack is phenomenal—easily on the level of Halo, Deus Ex, Assassin’
 In conclusion, every FPS fan should try this game. I recommend picking this up on {{< newtab href="https://www.gog.com/en/game/doom_2016" text="GOG.com" >}}. Always support DRM free games whenever possible!
 
 I’ll eventually pick up Doom: The Dark Ages. I know it’s different, but I’m sure it’ll still be fun—even if it doesn’t reach the same heights as Doom (2016).
-
-{{<
-    figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/doom-review/06-doom-review-20231120_185848.jpg"
-    align="center"
-    caption="My DOOM setup. Bad cable management."
-    target="_blank"
-    rel="noopener"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/doom-review/06-doom-review-20231120_185848.jpg"
->}}
 
 _This post is published on Apr 24, 2026 Friday 10:25:27 AM CDT_
