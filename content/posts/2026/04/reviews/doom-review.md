@@ -70,6 +70,6 @@ The soundtrack is phenomenal—easily on the level of Halo, Deus Ex, Assassin’
 
 In conclusion, every FPS fan should try this game. I recommend picking this up on {{< newtab href="https://www.gog.com/en/game/doom_2016" text="GOG.com" >}}. Always support DRM free games whenever possible!
 
-I’ll eventually pick up Doom: The Dark Ages. I know it’s different, but I’m sure it’ll still be fun—even if it doesn’t reach the same heights as Doom (2016).
+I’ll eventually pick up Doom: The Dark Ages. I know it’s different, but I’m sure it’ll still be fun—even if it doesn’t reach the same heights as DOOM.
 
 _This post is published on Apr 24, 2026 Friday 10:25:27 AM CDT_
