@@ -11,6 +11,16 @@ Back in 2004, the hype for Doom 3 was through the roof. It was during the golden
 
 Then the surprise reveal happened. I believe it was E3 or QuakeCon in 2015. The new Doom looked fast, and aggressive—it wasn't trying to be Call of Duty. There was hope!
 
+{{<
+    figure
+    src="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/doom-review/01-doom-review-2023_03_06_18_23_09_036.jpg"
+    align="center"
+    caption="Reminiscent of Doom 3"
+    target="_blank"
+    rel="noopener"
+    link="https://pub-547199c383d84d3aaec67970e5758c08.r2.dev/doom-review/01-doom-review-2023_03_06_18_23_09_036.jpg"
+>}}
+
 The game was released to great reviews in 2016. Even though it used a checkpoint-only save system (no quick save/quick load), it still looked promising enough to restore my optimism.
 
 I didn’t buy the game at launch. I picked it up on June 10, 2022 for $4.99—absolutely worth it. I finished it on May 8, 2023. I played on a 3080 Ti at 3440×1440 with max settings, and the game looked incredible. If you can, play this on a high-end machine.
@@ -20,6 +30,10 @@ I didn’t buy the game at launch. I picked it up on June 10, 2022 for $4.99—a
 </p>
 
 I completed the campaign in about 15 hours on Hurt Me Plenty, which I think is the ideal difficulty for most players.
+
+<p>
+{{< youtube SmqqQEtYpSo >}}
+</p>
 
 Doom (2016) is pure gameplay. It never wastes your time. From the moment you step out of the chamber, it’s nonstop action. There is a story, but it never interrupts the flow—I remember maybe two cutscenes.
 
