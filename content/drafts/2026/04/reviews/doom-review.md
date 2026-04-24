@@ -19,7 +19,7 @@ I completed the campaign in about 15 hours on Hurt Me Plenty, which I think is t
 
 Doom (2016) is pure gameplay. It never wastes your time. From the moment you step out of the chamber, it’s nonstop action. There is a story, but it never interrupts the flow—I remember maybe two cutscenes.
 
-The level design is excellent, and the art direction is striking. This game is nothing like Doom 3, and it’s definitely not “Call of Doom.” It’s fast, fluid, and confident in its identity.
+The level design and art direction are excellent. This game is nothing like Doom 3, and it’s definitely not "Call of Doom". It’s fast, fluid, and confident in its identity.
 
 There are plenty of secrets and optional challenges. I didn’t chase all of them, but there’s a lot here for players who enjoy exploration.
 
