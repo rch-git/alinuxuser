@@ -10,7 +10,7 @@ cover:
   relative: false # ← explicit for static folder images
 ---
 
-I once wrote a short review of Doom (2016), but that didn’t capture how good this game really is, and I need yell more into the void about how much I enjoyed it.
+I once wrote a short review of DOOM, but that didn’t capture how good this game really is, and I need to yell more into the void about how much I enjoyed it.
 
 Back in 2004, the hype for Doom 3 was through the roof. It was during the golden age of gaming. Half-Life 2, Doom 3 were both set to be released in the same year. Doom 3 was the Crysis of that generation. Following the release of Doom 3, the reception was a little mixed. It did not reach the heights that most thought it would. Visually impressive but divisive gameplay wise. It leaned heavily into horror, and I enjoyed parts of it, but I never finished it—mostly because of the spiders. After the Resurrection of Evil expansion, the franchise went quiet. The industry shifted. I think it would be fair to say that Call of Duty changed FPS games. id Software were no longer at the top of their game. Rage underperformed, and John Carmack left the studio in 2013. Rumors suggested Doom 4 was becoming a COD-inspired game, and I lost hope. I didn’t want “Call of Doom.”
 
