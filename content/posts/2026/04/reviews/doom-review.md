@@ -14,8 +14,6 @@ I once wrote a short review of DOOM, but that didn’t capture how good this gam
 
 Back in 2004, the hype for Doom 3 was through the roof. It was during the golden age of gaming. Half-Life 2, Doom 3 were both set to be released in the same year. Doom 3 was the Crysis of that generation. Following the release of Doom 3, the reception was a little mixed. It did not reach the heights that most thought it would. Visually impressive but divisive gameplay wise. It leaned heavily into horror, and I enjoyed parts of it, but I never finished it—mostly because of the spiders. After the Resurrection of Evil expansion, the franchise went quiet. The industry shifted. I think it would be fair to say that Call of Duty changed FPS games. id Software were no longer at the top of their game. Rage underperformed, and John Carmack left the studio in 2013. Rumors suggested Doom 4 was becoming a COD-inspired game, and I lost hope. I didn’t want “Call of Doom.”
 
-Then the surprise reveal happened. I believe it was E3 or QuakeCon in 2015. The new Doom looked fast, and aggressive—it wasn't trying to be Call of Duty. There was hope!
-
 {{<
     figure
     src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/doom-review/01-doom-review-2023_03_06_18_23_09_036.jpg"
@@ -26,13 +24,15 @@ Then the surprise reveal happened. I believe it was E3 or QuakeCon in 2015. The 
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/doom-review/01-doom-review-2023_03_06_18_23_09_036.jpg"
 >}}
 
-The game was released to great reviews in 2016. Even though it used a checkpoint-only save system (no quick save/quick load), it still looked promising enough to restore my optimism.
+Then the surprise reveal happened. I believe it was E3 or QuakeCon in 2015. The new Doom looked fast, and aggressive—it wasn't trying to be Call of Duty. There was hope!
 
-I didn’t buy the game at launch. I picked it up on June 10, 2022 for $4.99—absolutely worth it. It sat on the shelf for a little bit, and picked it up in April 2023 and I finished it on May 8, 2023. I played on a 3080 Ti at 3440×1440 with max settings, and the game looked incredible. The id Tech engine was put to very good use.
+The game was released to great reviews in 2016. Even though it used a checkpoint-only save system (no quick save/quick load), it still looked promising enough to restore my optimism.
 
 <p>
 {{< youtube UGNAVRuyUcY >}}
 </p>
+
+I didn’t buy the game at launch. I picked it up on June 10, 2022 for $4.99—absolutely worth it. It sat on the shelf for a little bit, and picked it up in April 2023 and I finished it on May 8, 2023. I played on a 3080 Ti at 3440×1440 with max settings, and the game looked incredible. The id Tech engine was put to very good use.
 
 I completed the campaign in about 15 hours on Hurt Me Plenty, which I think is the ideal difficulty for most players.
 
