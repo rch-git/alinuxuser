@@ -96,10 +96,7 @@ Qk4pgVj5_yM
 #### link to another page in the blog
 
 {{< newtab href="/posts/2010/01/reviews/lotrbfme-review/" text="Lord of the Rings Battle For Middle Earth" >}}
-{{< newtab
-    href="http://battlelog.battlefield.com/bf3/soldier/RomkaTerminator/stats/374274105/"
-    text="<span class='color-link'>RomkaTerminator</span>"
->}}
+{{< newtab href="http://bf3stats.com/stats_pc/twobles/" text="<span class='link-color'>twobles</span>" >}}
 
 append this `master/images/graw_review/03_graw_review_2023_02_25_22_59_39_269.jpg` to `@`
 
