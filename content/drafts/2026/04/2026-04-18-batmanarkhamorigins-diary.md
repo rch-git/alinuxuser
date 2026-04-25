@@ -59,3 +59,20 @@ Going to play some more now.
 Menu navigation is totally meant for a controller. Super annoying when using keyboard mouse.
 
 Taking a little break to work on the website.
+
+#### Apr 25, 2026 Saturday 04:15:10 PM CDT
+
+Another session
+
+Fight with Deathstroke is annoying and the same crashed.
+
+#### Apr 25, 2026 Saturday 05:30:44 PM CDT
+
+Updated website. Going to give it another go.
+
+Finished the fight. Annoying but its was OK.
+
+Hard locked the game because I can't exit a room because pressing Space wont open the door. Restarted the game and that made it work. I have a feeling there might come a time when I cant proceed because of these bugs.
+
+
+
