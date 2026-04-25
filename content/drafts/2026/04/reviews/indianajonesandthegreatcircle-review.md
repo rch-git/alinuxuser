@@ -22,4 +22,17 @@ Over the years, somehow it got very difficult for me to follow video game storie
 
 The plot here involves some Nazi mission to find Noah's Ark. I could go to Wikipedia and read the plot, but I want to write this from memory, and that's the only thing I remember. I watched a couple of videos I captured when I was playing the game, and there were definitely some very funny moments in the plot, but the whole story itself is kind of convoluted, and didn't make a lot of sense to me. It does take Indiana Jones to some great locations.
 
-Speaking of visuals, special mention to the graphics here. Quite sure this is the id tech engine that is used in Doom. It looks absolutely amazing in some locations. There are some totally stunning levels created.
+Speaking of visuals, special mention to the graphics here. Quite sure this is the id tech engine that is used in Doom. It looks absolutely amazing in some locations. There are some totally stunning levels created. The cliff level in Sukothai, and the brief level in China are extremely well done. The music is amazing too.
+
+I cannot say enough good things about the introduction. They made the Raiders of the Lost Ark playable. Amazing. I wish the level was a little bit longer.
+
+Now lets talk about the gameplay. I like it, but in my opinion, its not top tier. Weapon system is weird, ammo is scarce. You rely on hand to hand combat, and melee weapons. The companion totally ruins the gameplay. In addition to looking silly, the companion character totally breaks the gameplay.
+
+<p>
+{{< youtube 99y_8VCejjQ >}}
+</p>
+
+<p>
+{{< youtube 9pel1kJ1044 >}}
+</p>
+
