@@ -129,50 +129,114 @@ NOTE - For Amazon Linux 2 or Amazon Linux AMI, the username is ec2-user. Click {
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/10-connect-to-linux-awsec2-2019-08-10-13_34_46.jpg"
    >}}
 
-    If everything is done right, the connection should be successful, and the following terminal window will be displayed.
+   If everything is done right, the connection should be successful, and the following terminal window will be displayed.
 
+   {{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/11-connect-to-linux-awsec2-2019-08-10-13_38_33.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/11-connect-to-linux-awsec2-2019-08-10-13_38_33.jpg"
+   >}}
 
-
-Running a Web server
+#### Running a Web server
 
 Now that SSH connection has been established, we will move on to updating the OS, and installing packages necessary for running a web server.
 
 1. Type the following command in the terminal window -
 
+```
 sudo yum update -y
+```
 
 This will run all the necessary updates for your OS.
 
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/12-connect-to-linux-awsec2-2019-08-10-13_45_29.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/12-connect-to-linux-awsec2-2019-08-10-13_45_29.jpg"
+>}}
 
 2. To install Apache on the instance, type the following -
-
+```
 sudo yum install httpd -y
+```
 
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/13-connect-to-linux-awsec2-2019-08-10-13_50_15.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/13-connect-to-linux-awsec2-2019-08-10-13_50_15.jpg"
+>}}
 
 At this point, the EC2 instance is capable of being an app server that can serve web pages on Apache.
 
 3. Access the html directory in the web server directory by typing the following -
-
+```
 cd /var/www/html
+```
 
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/14-connect-to-linux-awsec2-2019-08-10-13_53_41.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/14-connect-to-linux-awsec2-2019-08-10-13_53_41.jpg"
+>}}
 
 Anything that lives in this directory will be accessible over port 80. In other words, this the directory out of which your website will be served.
 
 4. Now, we will add an index.html to this directory using nono text editor. Type the following -
-
+```
 sudo nano index.html
+```
 
 This will open the text editor and allow you to add contents to index.html. Type the contents as shown.
 
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/15-connect-to-linux-awsec2-2019-08-10-14_06_52.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/15-connect-to-linux-awsec2-2019-08-10-14_06_52.jpg"
+>}}
 
 Now, press Ctrl + X and press Y to save the file, and press Enter to save the file as index.html. Ensure that the file exists by running the ls command.
 
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/16-connect-to-linux-awsec2-2019-08-10-14_12_10.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/16-connect-to-linux-awsec2-2019-08-10-14_12_10.jpg"
+>}}
 
 5. Start the service by typing -
-
+```
 sudo service httpd start
+```
 
 6. Now access the public ip address of the instance through the browser, and you should see the following -
 
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/17-connect-to-linux-awsec2-2019-08-10-14_16_21.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/connect-to-linux-awsec2/17-connect-to-linux-awsec2-2019-08-10-14_16_21.jpg"
+>}}
+
 
 Credit goes to AWS Certified Solutions Architect - Associate 2019 on udemy along with some tutorials I found. If you found this post helpful, be sure to thank the folks at CloudGuru.
+
+_This post is published on Apr 25, 2026 Saturday 05:25:07 PM CDT_
