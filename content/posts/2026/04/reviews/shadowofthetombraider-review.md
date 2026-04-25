@@ -3,6 +3,11 @@ title: 'Shadow of the Tomb Raider (PC) Review'
 date: 2026-04-19T19:47:53
 draft: false
 tags: ["game review", "tomb raider"]
+cover:
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/shadowofthetombraider-review/02-shadowofthetombraider-review-2025_06_13_22_19_44_292.jpg"
+  alt: 'Jaguar attacks'
+  caption: 'Jaguar attacks'
+  relative: false # ← explicit for static folder images
 ---
 _I finished this game on `Sunday, June 29, 2025, 10:30:00 AM`._
 
@@ -26,7 +31,6 @@ Core gameplay is fun. Combat, exploration and puzzles are fun. The problem is al
     figure
     src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/shadowofthetombraider-review/01-shadowofthetombraider-review-2025_06_13_19_54_05_397.jpg"
     align="center"
-    caption="Jaguar"
     target="_blank"
     rel="noopener"
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/shadowofthetombraider-review/01-shadowofthetombraider-review-2025_06_13_19_54_05_397.jpg"
@@ -55,4 +59,4 @@ Despite the weak story, bloated systems, and padding, the game is still a solid 
 
 If you can ignore (or skip) most of the story and just focus on the adventure, it’s a very good game. I would happily have paid $5 for it—anything more feels like overpaying for all the unnecessary filler.
 
-The only Tomb Raider game left for me to finish now is Tomb Raider Underworld. I don't think I will ever play Tomb Raider Anniversary.
+The only Tomb Raider game left for me to finish now is Tomb Raider Underworld. I don't think I will ever play Tomb Raider Angel of Darkness.
