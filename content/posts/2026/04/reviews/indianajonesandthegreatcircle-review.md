@@ -16,3 +16,10 @@ I definitely got $1 worth of fun out of this game.
 
 This is the best Indiana Jones game on the PC ever made. So I am very happy this exists. The last Indiana Jones game I played was Indiana Jones and the Emperor's Tomb. I wish I could say I enjoyed it. I really tried, but its not a very good game. The controls are very clunky, and it just did not age very well. I gave up on the idea of there being a good Indian Jones game ever. Considering Emperor's Tomb was released in 2003, it took 22 years for another India Jones to be made.
 
+I am glad Machine Games made this game. I loved Wolfenstein New Order. These guys know how to make a good game. That said...you can see them apologizing for their art. I wonder if this led them to make some of the decisions they made with the story and the characters. Definitely possible.
+
+Over the years, somehow it got very difficult for me to follow video game stories. I don't know why. Even when I tried to pay attention to the plot, I tend to forget it once I finish the game.
+
+The plot here involves some Nazi mission to find Noah's Ark. I could go to Wikipedia and read the plot, but I want to write this from memory, and that's the only thing I remember. I watched a couple of videos I captured when I was playing the game, and there were definitely some very funny moments in the plot, but the whole story itself is kind of convoluted, and didn't make a lot of sense to me. It does take Indiana Jones to some great locations.
+
+Speaking of visuals, special mention to the graphics here. Quite sure this is the id tech engine that is used in Doom. It looks absolutely amazing in some locations. There are some totally stunning levels created.
