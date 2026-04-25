@@ -33,3 +33,23 @@ Migrated a lot of content from the old blog. Wrote a review of RoboCop Rouge Cit
 Fight with killer croc is pretty good.
 
 Not a huge fan of UI. I wish I customize it better. I need to look into it. Going to take a little bit of a break and play more maybe later tonight.
+
+#### Apr 24, 2026 Friday 07:18:33 PM CDT
+
+Another session about to commence.
+
+I wanted to spend time playing more, and doing other things less. So here we go.
+
+Navigating using the map is super clunky. I dont like it.
+
+Rumors about technical issues are real. Sound just went away. Can't hear ingame audio. Can hear audio in the menus though.
+
+The quality seems to be noticably lower than Arkham City.
+
+There is a bug that will make Batman smaller in size hard locking the game. So dumb.
+
+Done for a little bit. Going to render some videos now, and go to sleep. Will make a plan for tomorrow. Got a lot of work I need to finish tomorrow.
+
+This game is definitely made by a B tier studio. Noticeably lesser in quality compared to Arkham City.
+
+
