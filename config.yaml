@@ -45,7 +45,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
-  ShareButtons: ["twitter", "linkedin", "facebook", "whatsapp", "reddit"]
+  ShareButtons: ["twitter", "facebook", "reddit"]
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -156,6 +156,10 @@ menu:
       #name: example.org
       #url: https://example.org
       #weight: 30
+    - identifier: other
+      name: Other
+      url: /other/
+      weight: 25
     - identifier: search
       name: Search
       url: /search/
@@ -164,6 +168,7 @@ menu:
       name: About
       url: /about/
       weight: 50
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
