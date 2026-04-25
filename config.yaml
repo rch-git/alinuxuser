@@ -75,6 +75,7 @@ params:
       - css/extended/italicsblock.css
       - css/extended/wrap-text.css
       - css/extended/title-size.css
+      - css/extended/link-color.css
 
   label:
     text: "alinuxuser"
