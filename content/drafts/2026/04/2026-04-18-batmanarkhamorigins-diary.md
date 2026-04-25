@@ -52,4 +52,10 @@ Done for a little bit. Going to render some videos now, and go to sleep. Will ma
 
 This game is definitely made by a B tier studio. Noticeably lesser in quality compared to Arkham City.
 
+#### Apr 25, 2026 Saturday 09:43:23 AM CDT
 
+Going to play some more now.
+
+Menu navigation is totally meant for a controller. Super annoying when using keyboard mouse.
+
+Taking a little break to work on the website.
