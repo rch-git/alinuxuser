@@ -1,5 +1,5 @@
 ---
-title: 'Corsair K70 RAPIDFIRE Cherry MX Speed - The Best Mechanical Keyboard'
+title: 'Corsair K70 RAPIDFIRE Cherry MX Speed Review'
 date: 2017-02-26T12:00:00
 draft: false
 tags: ["hardware review"]

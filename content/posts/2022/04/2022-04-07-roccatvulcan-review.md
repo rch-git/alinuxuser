@@ -1,5 +1,5 @@
 ---
-title: 'ROCCAT Vulcan 121 AIMO Cherry MX Brown Switches Review'
+title: 'ROCCAT Vulcan 121 AIMO Cherry MX Brown Review'
 date: 2022-04-07T07:57:00
 draft: false
 tags: ["hardware review"]
