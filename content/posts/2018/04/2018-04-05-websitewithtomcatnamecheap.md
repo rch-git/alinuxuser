@@ -135,9 +135,9 @@ D:\MyWebsites\rc03.net\webapps\ROOT
 
 #### Namecheap host record configuration
 
-1. Go to http://whatismyip.com and take note of the external IP address (also known as the WAN IP)
+1. Go to {{< newtab href="https://whatismyip.com" text="<span class='link-color'>WhatIsMyIP.com</span>" >}} and take note of the external IP address (also known as the WAN IP).
 
-2. Go to Advanced DNS configuration
+2. Go to Advanced DNS configuration.
 
 3. In the host records section, create the following:
 ```
@@ -158,7 +158,7 @@ The record for the wildcard exists for creating virtual hosts in Tomcat, which I
 
 #### Problems I encountered
 
-I have a Netgear C6300BD, and the router is running Firmware Version V2.05.18
+I have a Netgear C6300BD, and the router is running Firmware Version V2.05.18.
 
 It turns out that this particular router does not support loopback functionality, therefore when you have port forwarding setup, accessing `http://<external-ip>:8080` does not work from within the network.
 
