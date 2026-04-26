@@ -75,3 +75,8 @@ Finished the fight. Annoying but its was OK.
 Hard locked the game because I can't exit a room because pressing Space wont open the door. Restarted the game and that made it work. I have a feeling there might come a time when I cant proceed because of these bugs.
 
 Going to take a little break. Played the game for 4.8 hours total.
+
+#### Apr 25, 2026 Saturday 07:46:29 PM CDT
+
+Played some more. There is this bug where Batman becomes tiny. Can't reach doors or other items. Need to restart the game. The game is fun, but I am not sure if I want to continue to play this.
+
