@@ -80,3 +80,12 @@ Going to take a little break. Played the game for 4.8 hours total.
 
 Played some more. There is this bug where Batman becomes tiny. Can't reach doors or other items. Need to restart the game. The game is fun, but I am not sure if I want to continue to play this.
 
+#### Apr 26, 2026 Sunday 10:16:01 AM CDT
+
+Going to play more.
+
+My computer crashed. This hasnt happened in a long time. Unrelated to the game. Happened when I was moving the VM window around.
+
+About to start now.
+
+
