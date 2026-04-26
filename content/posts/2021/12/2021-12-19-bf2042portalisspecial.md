@@ -1,6 +1,6 @@
 ---
 title: 'Battlefield 2042 Portal is Special'
-date: 2026-04-26T09:10:17
+date: 2021-12-19T09:10:17
 draft: false
 tags: ["battlefield"]
 ---
