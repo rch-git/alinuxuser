@@ -88,4 +88,6 @@ My computer crashed. This hasnt happened in a long time. Unrelated to the game. 
 
 About to start now.
 
+Ok, I actually like the story. This is where the Joker makes an appearence for the first time in Batman series. I like how they did that part. Very cool.
 
+I think I know how this game is going to end. Its basically the beginning of Arkham Asylum. Its funny how I remmeber the beginning of Arkham Asylum after all these years. Played the demo of that game in 2007 I think?
