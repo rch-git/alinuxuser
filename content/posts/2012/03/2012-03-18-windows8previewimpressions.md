@@ -3,6 +3,11 @@ title: 'My Windows 8 Preview Impressions'
 date: 2012-03-18T20:44:00
 draft: false
 tags: ["windows"]
+cover:
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/windows8previewimpressions/00-windows8previewimpressions.jpg"
+  alt: 'Windows 8 Full Screen Start Menu'
+  caption: 'Windows 8 Full Screen Start Menu'
+  relative: false # ← explicit for static folder images
 ---
 I have started messing around with Windows 8 Consumer Preview recently. I installed it on a VM using Virtual Box. Its quite straight forward, and it worked quite well in a VM. It can be unstable to start with, needing a few restarts to boot, but once booted, its quite stable, and it works well.
 
