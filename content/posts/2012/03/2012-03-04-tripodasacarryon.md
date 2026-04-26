@@ -2,6 +2,7 @@
 title: 'Tripod as a Carry On'
 date: 2012-03-04T18:23:00
 draft: false
+tags: ["travel"]
 ---
 I recently went on a trip to San Antonio and I wasn’t sure if I could carry a tripod. Since I did not have any check-in luggage, I had to carry it with me.
 
