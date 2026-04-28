@@ -3,6 +3,11 @@ date: 2023-11-23T15:48:00
 draft: false
 title: 'Red Dead Redemption 2 (PC) Review'
 tags: ["read dead redemption", "game review"]
+cover:
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/rdr2-review/01-rdr2-review_2023_09_17_14_19_19_881.jpg"
+  alt: 'Red Dead Redemption 2'
+  caption: 'The beginning of the end'
+  relative: false # ← explicit for static folder images
 ---
 I had planned to write an extensive review of Red Dead Redemption 2, but before I do, let me just say that if you enjoy open-world games with excellent graphics and haven't played this game yet, then stop reading and buy it now. I would hate to spoil the joy of discovering what this game has to offer.
 
