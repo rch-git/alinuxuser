@@ -45,13 +45,13 @@ The opening is one of the best parts. They turned the beginning of Raiders of th
 {{< youtube fiVHq61osis >}}
 </p>
 
-The visuals are fantastic. This is the id Tech engine (same as Doom) and it looks amazing in a lot of spots. The game sends Indy all over the world like the films. The game starts in Connecticut, and concludes in Ziggurat of Ur. The levels are really well made, especially the cliff level in Sukhothai and the short section in China are especially stunning. There are some underwater sections as well, and they are well made too.
+The visuals are fantastic. This is the id Tech engine (same as Doom) and it looks amazing in a lot of spots. The game sends Indy all over the world like the films. The game starts in Connecticut, and concludes in Ziggurat of Ur. The levels are really well made, especially the cliff level in Sukhothai and the short section in China are stunning. There are some underwater sections as well, and they are well made too.
 
 <p>
 {{< youtube 99y_8VCejjQ >}}
 </p>
 
-Gameplay is solid but not top-tier for me. The weapon system feels weird and ammo is pretty scarce, so you end up doing a lot of hand-to-hand and melee fighting. That part can actually be fun. Having an AI sidekick during stealth gameplay is always risky, and this game doesn’t pull it off. The companion character really hurts the experience at times. She looks silly, and she completely breaks stealth. Enemies will shoot at her but she cannot be killed, or just ignore her as she is crouch walking right in front of them, which makes those parts feel goofy and poorly done. Not every game can pull off a sidekick like Alyx in Half-Life 2. The character herself is pretty boring, and a lot of the dialogue is heavy on exposition. You could completely remove her from the game and nothing of value would be lost.
+Gameplay is solid but not top-tier for me. The weapon system feels weird and ammo is pretty scarce, so you end up doing a lot of hand-to-hand and melee fighting. That part can actually be fun. Having an AI sidekick during stealth gameplay is always risky, and this game doesn’t pull it off. The companion character really hurts the experience at times. In addition to looking silly, she completely breaks stealth. Enemies will shoot at her but she cannot be killed, or sometimes enemies just ignore her as she is crouch walking right in front of them, which makes the game feel goofy and poorly done. The character herself is pretty boring, and a lot of the dialogue is heavy on exposition. You could completely remove her from the game and nothing of value would be lost. Not every developer can pull off a companion like Alyx (and Dog) in Half-Life 2.
 
 <p>
 {{< youtube 9pel1kJ1044 >}}
@@ -74,7 +74,7 @@ Voice acting can go from great to boring. There are two characters in the game t
 
 Troy Baker does an amazing job as Indy. At times he sounds so close to Harrison Ford that it’s kind of wild. Marios Gavrilis is also excellent as Voss. Whenever those two shared the screen, the game became entertaining. Those scenes felt like an actual Indiana Jones movie.
 
-This is a solid action-adventure game that every Indiana Jones fan should play. At the full launch price of $70 or $100 for the premium edition (completely ridiculous), I wouldn’t recommend it — it doesn’t reach all-time great status. But at around $10? Totally worth it.
+This is a solid action-adventure game that every Indiana Jones fan should play. At the full launch price of $70 or $100 for the premium edition (completely ridiculous), I wouldn’t recommend buying at that price — it doesn’t reach all-time great status. But at around $10? Totally worth it.
 
 What I enjoyed most was the combat when the game didn’t get in its own way, the excellent levels, the Indy/Voss scenes, and the music.
 
@@ -87,8 +87,8 @@ What I enjoyed most was the combat when the game didn’t get in its own way, th
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/06-indianajonesandthegreatcircle-review-2025_01_05_07_33_26_256.jpg"
 >}}
 
-I’m really glad this game got made. I hope they make a sequel that fixes the rough spots — especially the companion. They should make her look and sound better, and keep her out of the actual gameplay, maybe like Farah in Prince of Persia where she’s there but not constantly in your way, because it is not easy to create something in the same league as Half-Life 2, and if they can't get it right, don't even bother wasting time and resources.
+I’m really glad this game got made. I hope they make a sequel that fixes the rough spots — especially the companion. I wouldn't mind not having any companion character at all, but if they insist on it, they should the character look and sound better, and keep out of the actual gameplay, maybe like Farah in Prince of Persia where she’s there but not constantly in your way, because it is not easy to create something in the same league as Half-Life 2, and if they can't get it right, don't even bother wasting time and resources.
 
-Overall, fun Indy adventure that fans will enjoy, especially if you can get it cheap.
+Overall, fun Indiana Jones adventure that fans will enjoy, especially if you can get it cheap.
 
 __Verdict: Buy it one sale.__

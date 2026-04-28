@@ -436,7 +436,7 @@ draft: false
 * Ghost Recon Advanced Warfighter
   * Saturday, February 25, 2023, 11:13 PM
 
-* DOOM (2016)
+* {{< newtab href="/posts/2026/04/reviews/doom-review/" text="<span class='link-color'>DOOM (2016)</span>" >}}
   * Monday, May 8, 2023, 8:55 PM
 
 * Star Wars Jedi Fallen Order
@@ -496,13 +496,13 @@ draft: false
 * The Forgotten City
   * Monday, June 17, 2024, 9:57 PM
 
-* Dishonored
+* {{< newtab href="/posts/2024/07/reviews/dishonored-reviews/" text="<span class='link-color'>Dishonored</span>" >}}
   * Monday, July 1, 2024, 5:49 AM
 
-* Batman Arkham City
+* {{< newtab href="/posts/2024/07/reviews/batmanarkhamcity-review/" text="<span class='link-color'>Batman Arkham City</span>" >}}
   * Saturday, July 27, 2024, 2:21 PM
 
-* Borderlands
+* {{< newtab href="/posts/2024/08/reviews/borderlands-review/" text="<span class='link-color'>Borderlands</span>" >}}
   * Saturday, August 3, 2024, 11:18 AM
 
 * X-Men Origins: Wolverine Uncaged Edition
@@ -514,19 +514,19 @@ draft: false
 * Dishonored The brigmore Witches
   * Saturday, August 10, 2024, 10:54 PM
 
-* Assassin's Creed Odyssey
+* {{< newtab href="/posts/2024/12/reviews/assassinscreedodyssey-review/" text="<span class='link-color'>Assassin's Creed Odyssey</span>" >}}
   * Saturday, December 21, 2024, 10:44 AM
 
-* Indiana Jones and The Great Circle
+* {{< newtab href="/posts/2026/04/reviews/indianajonesandthegreatcircle-review/" text="<span class='link-color'>Indiana Jones and The Great Circle</span>" >}}
   * Sunday, January 5, 2025, 9:27 AM
 
 * F.E.A.R 2 Project Origin
   * Sunday, January 19, 2025, 1:55 PM
 
-* Assassin's Creed Syndicate
+* {{< newtab href="/posts/2026/03/reviews/assassinscreedsyndicate-review/" text="<span class='link-color'>Assassin's Creed Syndicate</span>" >}}
   * Saturday, June 7, 2025, 10:23 PM
 
-* Shadow of the Tomb Raider
+* {{< newtab href="/posts/2026/04/reviews/shadowofthetombraider-review/" text="<span class='link-color'>Shadow of the Tomb Raider</span>" >}}
   * Sunday, June 29, 2025, 10:30 AM
 
 * {{< newtab href="/posts/2026/03/reviews/dishonored2-review/" text="<span class='link-color'>Dishonored 2</span>" >}}
