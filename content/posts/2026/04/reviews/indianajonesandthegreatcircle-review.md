@@ -11,7 +11,7 @@ cover:
 ---
 I got this game through Game Pass for $1, and I finished it fast. I started in late December and rolled credits on `Sunday, January 5, 2025, at 9:27 AM`. Safe to say I got my dollar’s worth.
 
-This is easily the best Indiana Jones game ever made for PC. I’m really happy it exists. The last one I tried was Indiana Jones and the Emperor’s Tomb back in the day. I really wanted to like it, but the controls were clunky and it just hasn’t aged well. After that, I pretty much gave up on the idea of a good Indy game. It took 22 years for another games to be made, and we have come a long way.
+This is easily the best Indiana Jones game ever made for PC. I’m really happy it exists. The last one I tried was Indiana Jones and the Emperor’s Tomb back in the day. I really wanted to like it, but the controls were clunky and it just hasn’t aged well. After that, I pretty much gave up on the idea of a good Indy game. It took 22 years for another game to be made, and we have come a long way.
 
 {{<
     figure
