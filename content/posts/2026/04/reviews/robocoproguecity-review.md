@@ -3,6 +3,11 @@ date: 2026-04-19T14:09:39
 draft: false
 tags: ["robocop", "game review"]
 title: 'RoboCop: Rogue City (PC) Review'
+cover:
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/robocop-review/01-robocop-review2026.04.18-16.35.42.53.jpg"
+  alt: 'RoboCop'
+  caption: 'RoboCop'
+  relative: false # ← explicit for static folder images
 ---
 When I first heard about RoboCop: Rogue City, I expected it to be a terrible movie tie-in game — bad controls, a poor PC port, and an unoptimized, buggy mess. So when reviews started coming out and the game was rated highly, I was genuinely surprised. Could this actually be good, like the Batman games?
 
