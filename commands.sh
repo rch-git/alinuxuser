@@ -20,6 +20,9 @@ git push -u origin dev
 
 ##### SETUP HUGO PROJECT #####
 
+# install hugo
+sudo snap install hugo --channel=extended/stable
+
 # run the command from inside alinuxuser directory
 sysuser@ubuntuprod:~/git/thelocalhoster$ hugo new site . --force --format yaml
 
