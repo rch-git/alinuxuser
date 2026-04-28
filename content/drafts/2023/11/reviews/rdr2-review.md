@@ -9,23 +9,27 @@ cover:
   caption: 'The beginning of the end'
   relative: false # ← explicit for static folder images
 ---
-I had planned to write an extensive review of Red Dead Redemption 2, but before I do, let me just say that if you enjoy open-world games with excellent graphics and haven't played this game yet, then stop reading and buy it now. I would hate to spoil the joy of discovering what this game has to offer.
+I had planned to write an extensive review of Red Dead Redemption 2, but before I do, let me just say that if you enjoy open-world games with excellent graphics and haven't played this game yet, might as well stop reading this and buy it now, and play it. Take your time with the game. I would hate to spoil the joy of discovering what this game has to offer. Assuming you a good enough PC, set everything to high, put on your headphones, start the game, and just enjoy the ride. Get lost in this excellent version of the United States.
 
-Red Dead Redemption 2 is a sequel-prequel to the original game, and based on my experience, it surpasses its predecessor in every way. Unfortunately, the original game was never released on PC, denying PC gamers the chance to experience it (_This was obviously written before the PC release of Red Dead Redemption_). Despite the latest remaster of Red Dead Redemption not being available on PC, I'm glad that Rockstar decided to release Red Dead Redemption 2 on PC.
+#### Introduction
+
+Red Dead Redemption 2 is a sequel-prequel to the original game, and based on what I have seen, it surpasses the first game in every way. Unfortunately, Red Dead Redemption was never released on PC, denying PC gamers the chance to experience it. I am just happy Rockstar released Red Dead Redemption 2 on PC. They are notorius for not releasing PC versions of their games for a long time after the launch on console, and even when they do, their PC ports tend to be a mess. GTA IV being a prime example of a buggy mess on PC. 
 
 <p>
 {{< youtube hqHilVWTPG0 >}}
 </p>
 
-I played the Steam version of Red Dead Redemption 2 in 2023 on a powerful machine with an i7 12700k processor, GeForce RTX 3080Ti graphics card, and 64GB of RAM, running at 3440x1440 on the highest graphics settings. The game ran smoothly at mostly 60-70FPS with DLSS set to Quality. For those with less powerful machines, I recommend enabling DLSS, as this game is resource-intensive.
+#### Graphics
 
-The game's visuals are stunning, with its open-world environment spanning different settings, from snowy mountains to great plains, redwood forests, swamps, and the desert landscape of the Southern United States and Mexico. The weather system adds to the immersion, such as riding your horse on the great plains during a thunderstorm. In terms of visual design, Red Dead Redemption 2 surpasses even The Witcher 3.
+I played the Steam version of Red Dead Redemption 2 in 2023 on a powerful machine with an i7 12700k processor, GeForce RTX 3080Ti graphics card, and 64GB of RAM, running at 3440x1440 at the highest graphics settings. The game ran smoothly at mostly 60-70FPS with DLSS set to Quality. For those with less powerful machines, I recommend setting DLSS to Performance, as this game is resource-intensive.
+
+The game's visuals are stunning. I don't think there is any games at this point, five years after its release, that even comes close to the graphics fidelity. The open world is massive, and it spans different settings, snow covered north, the great plains, redwood forests, swamps, and the desert landscape of the Southern United States and Mexico. The weather system is fantastic. We have come a long way from S.T.A.L.K.E.R Clear Sky, which is the first time I have seen day night cycle and weather effects, to this. Riding your horse on the great plains during a thunderstorm, or slowly making your way through the Bayou at night-the atmosphere is top notch. In terms of art and visual design, Red Dead Redemption 2 surpasses even The Witcher 3.
 
 <p>
 {{< youtube YI_ofdHQ6co >}}
 </p>
 
-However, it's not just the visuals that make this game great. Its level of interactivity, side quest design, variety of gameplay, interesting characters, and Easter Eggs contribute to the overall experience. Rockstar's talent is evident when compared to other open-world games, such as those created by UbiSoft, which lack the same level of creativity and originality.
+It's not just the visuals that make this game great. Its level of interactivity, side quest design, variety of gameplay, interesting characters, and Easter Eggs contribute to the overall experience. Rockstar's talent is evident when compared to other open-world games, such as those created by UbiSoft, which lack the same level of creativity and originality.
 
 Despite the amount of focus given to creating a stunning open world, one might assume that Rockstar overlooked the importance of the game's storyline. However, this is not the case. The game's story is well-crafted and engaging, which is no easy feat considering the campaign is over 50 hours long. The voice acting is arguably the best I have ever experienced in any video game, even surpassing that of The Witcher 3 and Cyberpunk 2077. While I won't delve into the specific details of the story, I can assure you that it is exceptionally well done, with one of the most memorable final acts I've experienced in any game to date.
 
