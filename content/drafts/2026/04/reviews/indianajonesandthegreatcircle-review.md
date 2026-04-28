@@ -15,26 +15,26 @@ This is easily the best Indiana Jones game ever made for PC. I’m really happy 
 
 {{<
     figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/03-indianajonesandthegreatcircle-review-2022-03-26%2019-30-30-48.jpg"
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/02-indianajonesandthegreatcircle-review-2022-03-26%2019-30-30-48.jpg"
     width="640"
     align="center"
     caption="Indiana Jones and the Emperor's Tomb"
     target="_blank"
     rel="noopener"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/03-indianajonesandthegreatcircle-review-2022-03-26%2019-30-30-48.jpg"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/02-indianajonesandthegreatcircle-review-2022-03-26%2019-30-30-48.jpg"
 >}}
 
 I’m glad MachineGames made this. I loved Wolfenstein: The New Order, so I knew they are capable of making a good video game. That said, you can kind of feel them playing it safe with the story and characters, like they were apologizing for their art. Might be why some choices feel like they are pushing corporate morality.
 
 {{<
     figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/02-indianajonesandthegreatcircle-review-2024_12_27_20_20_16_858.jpg"
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/03-indianajonesandthegreatcircle-review-2024_12_27_20_20_16_858.jpg"
     width="640"
     align="center"
     caption="Never apologize for art"
     target="_blank"
     rel="noopener"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/02-indianajonesandthegreatcircle-review-2024_12_27_20_20_16_858.jpg"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/03-indianajonesandthegreatcircle-review-2024_12_27_20_20_16_858.jpg"
 >}}
 
 Over the years, somehow it got very difficult for me to follow video game stories, mostly because a lot of video game stories are bad and boring. The plot is about Nazis hunting for Noah’s Ark. That’s pretty much all I remember from memory. The story felt kind of convoluted and didn’t always make a ton of sense to me, but it does take Indy to some really cool places.
@@ -61,12 +61,11 @@ There are also invisible walls, instant fail states, and boss fights that only w
 
 {{<
     figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/05-indianajonesandthegreatcircle-review-2025_01_04_18_00_43_837.jpg"
-    width="640"
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/04-indianajonesandthegreatcircle-review-2025_01_04_18_00_43_837.jpg"
     align="center"
     target="_blank"
     rel="noopener"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/05-indianajonesandthegreatcircle-review-2025_01_04_18_00_43_837.jpg"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/04-indianajonesandthegreatcircle-review-2025_01_04_18_00_43_837.jpg"
 >}}
 
 There are side quests, puzzles, and collectibles, but I mostly ignored them. You can earn money to buy gear and stuff, but I only did the bare minimum (like buying the camera early on).
@@ -78,6 +77,15 @@ Troy Baker does an amazing job as Indy. At times he sounds so close to Harrison 
 This is a solid action-adventure game that every Indiana Jones fan should play. At the full launch price of $70 or $100 for the premium edition (completely ridiculous), I wouldn’t recommend it — it doesn’t reach all-time great status. But at around $10? Totally worth it.
 
 What I enjoyed most was the combat when the game didn’t get in its own way, the excellent levels, the Indy/Voss scenes, and the music.
+
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/06-indianajonesandthegreatcircle-review-2025_01_05_07_33_26_256.jpg"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/indianajonesandthegreatcircle-review/06-indianajonesandthegreatcircle-review-2025_01_05_07_33_26_256.jpg"
+>}}
 
 I’m really glad this game got made. I hope they make a sequel that fixes the rough spots — especially the companion. They should make her look and sound better, and keep her out of the actual gameplay, maybe like Farah in Prince of Persia where she’s there but not constantly in your way, because it is not easy to create something in the same league as Half-Life 2, and if they can't get it right, don't even bother wasting time and resources.
 
