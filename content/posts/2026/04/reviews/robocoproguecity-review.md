@@ -4,7 +4,7 @@ draft: false
 tags: ["robocop", "game review"]
 title: 'RoboCop: Rogue City (PC) Review'
 cover:
-  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/robocop-review/01-robocop-review2026.04.18-16.35.42.53.jpg"
+  image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/robocop-review/01-robocop-review.jpg"
   alt: 'RoboCop'
   caption: 'RoboCop'
   relative: false # ← explicit for static folder images
@@ -31,10 +31,19 @@ They created a semi-open world where you can walk the streets of old Detroit, wh
 
 One thing I didn’t like was the busywork. Because RoboCop’s movement is slow (which makes sense for the character), walking back and forth between objectives can get very boring. This is the main reason I mostly skipped side quests — the slow pace made them feel tedious. There’s also some repetitive busywork around HQ, like walking around, talking to officers, heading to the parking garage, and then fast traveling to the next location. The game could have been tighter in this area.
 
-
 (Note: The game is set after the events of RoboCop 2. I haven’t watched the sequels.)
 
 I didn’t pay much attention to the story and skipped most cutscenes. Even though Peter Weller’s voice acting is great, the plot itself didn’t interest me. I didn’t care about the internal police politics or the corporate overlord’s plans for a “utopia.” I just wanted to use cool weapons and take down enemies.
+
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/robocop-review/02-robocop-review.jpg"
+    width="640"
+    align="center"
+    target="_blank"
+    rel="noopener"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/robocop-review/02-robocop-review.jpg"
+>}}
 
 Speaking of weapons, the Auto-9 is fantastic. You upgrade it throughout the game, and by the end it becomes an unstoppable force. There are also several fun pickup weapons like the rocket launcher and .50 cal sniper rifle. The only downside is that at the start of each mission, you lose the equipped pickup weapons and default back to the Auto-9 and a standard shotgun.
 
