@@ -2,3 +2,4 @@
 /.hugo_build.lock
 *.kate-swp
 .*.kate-swp
+/resources
