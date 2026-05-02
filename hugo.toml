@@ -13,15 +13,16 @@ pagerSize = 3
 [menu]
   [[menu.header]]
     name = "blog"
-    weight = 0
+    weight = 1
     url = "https://blog.alinuxuser.com/"
+    #target = "_blank"
   [[menu.header]]
     name = "gallery"
-    weight = 1
+    weight = 2
     url = "https://gallery.alinuxuser.com/"
   [[menu.header]]
     name = "about"
-    weight = 1
+    weight = 3
     url = "about"
 
 [params]
@@ -57,6 +58,7 @@ showCategories = true     # Show categories on post page
 key = 1
 name = "X"
 url = "https://x.com/WeekendGamerTX"
+target = "_blank"
 aria = "Twitter Profile"
 
 #[[params.social]]
