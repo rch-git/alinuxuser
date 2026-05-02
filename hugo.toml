@@ -15,11 +15,12 @@ pagerSize = 3
     name = "blog"
     weight = 1
     url = "https://blog.alinuxuser.com/"
-    #target = "_blank"
+    params.newTab = true
   [[menu.header]]
     name = "gallery"
     weight = 2
     url = "https://gallery.alinuxuser.com/"
+    params.newTab = true
   [[menu.header]]
     name = "about"
     weight = 3
