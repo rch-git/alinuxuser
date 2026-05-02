@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --config config.yaml"
+  command = "hugo --config hugo.toml"
 
 [build.environment]
   HUGO_VERSION = "0.150.0"
