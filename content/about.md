@@ -1,25 +1,21 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+# description = "Hugo, the world's fastest framework for building websites"
+date = "2026-05-01"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "RC"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I created this website after casually searching for a domain name on Namecheap, and to my surprise, this domain name was available.
 
-Hugo makes use of a variety of open source projects including:
+I was quite happy with Blogger but its evident that Google abandoned it. I hope this is my forever blog.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I am interested in tech, gaming, photography (don't get to do this as much), writing and Linux (my new found hobby).
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I recently created a portfolio of my favorite photographs. You can find them here in my [Gallery](https://gallery.alinuxuser.com/).
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+If you want to contact me, you can reach me via email or tag me on X.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Email: `alinuxuser@fastmail.com`
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+[X (Twitter)](https://x.com/WeekendGamerTX)

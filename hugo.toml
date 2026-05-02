@@ -1,4 +1,4 @@
-baseURL = 'https://gohugo.io/'
+baseURL = 'https://alinuxuser.com'
 locale = 'en-us'
 theme = "nightfall"
 
@@ -14,15 +14,19 @@ pagerSize = 3
   [[menu.header]]
     name = "blog"
     weight = 0
-    url = "blog"
+    url = "https://blog.alinuxuser.com/"
+  [[menu.header]]
+    name = "gallery"
+    weight = 1
+    url = "https://gallery.alinuxuser.com/"
   [[menu.header]]
     name = "about"
     weight = 1
     url = "about"
 
 [params]
-user = "hello"
-hostname = "gohugo.io"
+user = "alinuxuser"
+hostname = "fastmail.com"
 
 # You can configure external links to open in new tabs by adding this parameter
 openLinksInNewTab = true
@@ -39,30 +43,30 @@ showAuthors = true        # Show authors on post page
 showCategories = true     # Show categories on post page
 
   [params.author]
-    name = "Hugo Nightfall"  # Website and RSS feed author
-    email = "email@example.com"  # RSS feed email address
+    name = "rc"  # Website and RSS feed author
+    email = "alinuxuser@fastmail.com"  # RSS feed email address
 
 [[params.social]]
-key = 0
-name = "github"
-url = "https://github.com/gohugoio"
-target = "_blank"
-aria = "GitHub Profile"
+#key = 0
+#name = "github"
+#url = "https://github.com/gohugoio"
+#target = "_blank"
+#aria = "GitHub Profile"
 
 [[params.social]]
 key = 1
-name = "twitter"
-url = "https://www.example.com"
+name = "X"
+url = "https://x.com/WeekendGamerTX"
 aria = "Twitter Profile"
 
-[[params.social]]
-key = 2
-name = "linkedin"
-url = "https://www.example.com"
-aria = "LinkedIn Profile"
+#[[params.social]]
+#key = 2
+#name = "linkedin"
+#url = "https://www.example.com"
+#aria = "LinkedIn Profile"
 
 [[params.social]]
 key = 3
 name = "email"
-url = "mailto:email@example.com"
+url = "mailto:alinuxuser@fastmail.com"
 aria = "My e-Mail Address"

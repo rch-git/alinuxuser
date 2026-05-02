@@ -6,8 +6,6 @@ hugo new site . --force
 # clone the theme
 git clone https://github.com/LordMathis/hugo-theme-nightfall themes/nightfall
 
-
-
 ##### INITIAL REPO SETUP #####
 
 # set username, email and set rebase when pulling
