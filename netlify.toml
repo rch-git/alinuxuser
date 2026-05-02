@@ -5,13 +5,12 @@ command = """\
   tar -C "${HOME}/.local" -xf "dart-sass-1.99.0-linux-arm64.tar.gz" && \
   rm "dart-sass-1.99.0-linux-arm64.tar.gz" && \
   export PATH="${HOME}/.local/dart-sass:${PATH}" && \
-  git config core.quotepath false && hugo build --gc --minify
-  """
+  hugo --gc --minify
+"""
 
 [build.environment]
-  HUGO_VERSION = "0.161.1"
-  DART_SASS_VERSION = "1.99.0"
-  GO_VERSION = "1.26.1"
-  NODE_VERSION = "24.14.1"
-  HUGO_ENV = "production"
-  TZ = "America/Chicago"
+HUGO_VERSION = "0.161.1"
+GO_VERSION = "1.26.1"
+NODE_VERSION = "24.14.1"
+HUGO_ENV = "production"
+TZ = "America/Chicago"
